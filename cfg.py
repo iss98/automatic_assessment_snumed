@@ -38,6 +38,13 @@ def get_cfg():
         "--hidden", type = int, default = 32, help = "dimension of main layer"
     ) #모델의 메인 layer의 차원 설정
     """
+    어텐션에서 head 개수 설정
+    """
+    parser.add_argument(
+        "--nh", type = int, default = 4, help = "number of heads"
+    ) #number of heads는 hidden dimension의 약수여야 함. 약수가 아니면 에러 나옴.
+
+    """
     학생 응답의 최대 길이 설정
     """
     parser.add_argument(

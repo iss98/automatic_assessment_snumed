@@ -52,7 +52,7 @@ class InfoResponseDataset(Dataset):
                 y = [int(row.loc["정오답"])]
                 self.data.append((token.ids,y))
 
-    def item_info_preprcoess(self):
+    def item_info_preprocess(self):
         df = pd.read_csv("./data/info/info.csv")
         self.item_info = {}
         for row in df:
