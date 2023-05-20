@@ -1,0 +1,241 @@
+
+- 12x^{3}y^{2} \times 1/A \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ 2^{2} \times 3 3^{2} \times 2 A = - 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ - 12x^{3}y^{2}/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} = 216x^{6}y^{5} = 8x^{2}y^{3} = 216y^{6}y^{5}/8x^{3}y^{3} = \square \therefore \square = 27x^{4}y^{2} 
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} =  - 12x^{3}y^{2}/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ - 12x^{3}y^{2}/\square = 8x^{2}y^{3}/18x^{3}y^{3} = - 12x^{3}y^{2}/\square = 4/9x 4\square = - 108x^{4}y^{2} \square = - 27x^{4}y^{2} \therefore - 27x^{4}y^{2}
+
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ ( - 12x^{3}y^{2} ) \div \square = 8x^{2}y^{3} \div 18x^{3}y^{3} = 8x^{2}y^{3}/18x^{3}y^{3} = 4/9x \\ ( - 12x^{3}y^{2} ) \div \square =  4/9x \square = ( - 12x^{3}y^{2} ) \div 4/9x = ( - 12x^{3}y^{2} ) \times 9x/4 = - 27x^{4}y^{2} \therefore - 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ - 12 \times 1/\square \times 18 = 8 \\ \square = - 24xy^{2} \\ - 24xy^{2}
+
+8x^{2}y^{3}/18x^{3}y^{3} = 4/9x 4/9x \times - 12x^{3}y^{2} = - 16/3 x^{2}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \square = -36x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 1/18x^{3}y^{3} = 8x^{2}y^{3} \square = 8x^{2}y^{3 \times 18x^{3}y^{3} \times - 1/12x^{3}y^{2} \square = 12x^{2}y^{4}
+
+( - 12x^{3}y^{2} ) \times 1/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ 1/\square \times ( - 216x^{6}y^{5} ) = 8x^{2}y^{3} \\ 1/\square = 8x^{2}y^{3} / ( - 216x^{6}y^{5} ) 1/\square = 1/27x^{4}y^{2} \square = 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \times 1/\square \times 18x^{3}y^{3} = 8x^{2}y^{3}
+- 12x^{3}y^{2}/\square = 8x^{2}y^{3}/18x^{3}y^{3} \\ - 12x^{3}y^{2}/\square = 4/9x \\ 1/\square = 4/9x \times ( - 1/12x^{3}y^{2} ) \\ 1/\square = - 1/27x^{4}y^{2} \\ \square = - 27x^{4}y^{2} \therefore - 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ - 12x^{3}y^{2} \times 1/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} \square = - 27x^{4}y^{2}
+
+
+
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ - 216x^{6}y^{5} \div \square = 8x^{2}y^{3} \\ - 216x^{6}y^{5} \div  8x^{2}y^{3} = \square = - 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \square = 8x^{2}y^{3} \times + 12x^{3}y^{2} \div - 18x^{3}y^{3}  
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ - 216x^{6}y^{5} \div \square = 8x^{2}y^{3} 216x^{6}y^{5} \div 8x^{2}y^{3} \square = 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} 일 때 \square 는 8x^{2}y^{3} \div 18x^{3}y^{3} = 8x^{2}y^{3}/18x^{3}y^{3} = 4/9x 4/9x \times ( -2x^{3}y^{2} ) = - 18x^{3}y^{3}/4 = - 9x^{2}y^{2}/2
+( - 12x^{3}y^{2} ) \times 18x^{3}y^{3} \div 8x^{2}y^{3} = ( - 12x^{3}y^{2} ) \times 18x^{3}y^{3} \times 1/8x^{2}y^{3} = ( - 3x^{3}y^{2} ) \times 9x = - 27x^{4}y^{2}
+8x^{2}y^{3}/18x^{3}y^{3} = - 12x^{3}y^{2} \div \square = 4/9x
+
+( - 12x^{3}y^{2} ) \div \square \times 18x^{2}y^{3} = 8x^{2}y^{3} \\ - 216x^{5}y^{5} \div \square = 8x^{2}y^{3} \square = 27x^{3}y^{2}
+\square = 8x^{2}y^{3} \times 1/18x^{3}y^{3} \times - 12x^{3}y^{2} = 8x^{2} \times 1/3 \times - 2y^{2} \square = -16/3 x^{2}y^{2}
+- 27x^{3}y^{2}
+( - 12x^{3}y^{2} ) \times 1/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} \square = - 12x^{3}y^{2} \times 18x^{3}y^{3} \times 1/8x^{2}y^{3} \\ - 12 \times 18 \times 1/8 \times x^{6-3} \times y^{5-3} =  - 27x^{3}y^{2} \\ - 27x^{3}y^{2}
+
+
+
+
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} 8x^{2}y^{3} \div 18x^{3}y^{3} = 8/18x
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ - 12x^{3}y^{2}/\square = 8x^{2}y^{3}/18x^{3}y^{3} \\ - 12x^{3}y^{2}/\square = 4/9x \square = - 27x^{4}y^{2}
+
+
+( - 12x^{3}y^{2} ) \times 1/a \times 8x^{3}y^{3} = 8x^{2}y^{3} = - 12x^{3}y^{2}/a \times 8x^{3}y^{3} = 8x^{2}y^{3} = - 96/x^{5}y^{5}/a = 8x^{2}y^{3} a = -12x^{3}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} 이므로 \square 안에는 kx^{4}y^{2} 이 있다.  계수인 k를 알기 위해서는 계수끼리 나눗셈을 하면 된다. -12 \div  k \times 18 = 8 \\ -216/k = 8 \\ -216 = 8k \therefore k = - 27 고로 \square는 - 27x^{4}y^{2} \therefore - 27x^{4}y^{2}
+- 12x^{3}y^{2}/a \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ - 12 \times 18 = - 216 \\ -216/8=-27 a = -27x^{b}y^{c} 6 - 4 = 2 5 - 2 = 3 b = 4 c = 2 a = -27x^{4}y^{2} 답 = -27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \times 1/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} ( - 216x^{6}y^{5} ) \times 1/\square = 8x^{2}y^{3} ( - 216x^{6}y^{5} ) \times 1/8x^{2}y^{3} = - 27x^{4}y^{2} \therefore \square = - 27x^{4}y^{2}
+이것도
+1/27 x^{3}y^{3}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ - 12x^{3}y^{2}  \div \square = 8x^{2}y^{3} \times 1/18x^{3}y^{3} = 4/9x \square = - 12x^{3}y^{2} \div 4/9x \square = - 12x^{3}y^{2} \times 9x/4 \square = - 27x^{4}y^{2} \\ - 27x^{4}y^{2}
+\square = A ( - 12x^{3}y^{2} ) \times 18x^{3}y^{3} \\ - 216x^{6}y^{5} \div \square = 8x^{2}y^{3} A = - 27x^{4}y^{2}
+( - 12x^{3}y^{2} )/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} \square의 부호 = - // -12 \times 18 = 216 -216x^{6}y^{5}/\square = 8x^{2}y^{3} \square = - 27x^{4}y^{2}
+- 12x^{3}y^{2} \times 18x^{3}y^{3} \times 1/8x^{2}y^{3} = - 3xy^{2} \times 9x^{3} = \square \\ - 27x^{4}y^{2} = \square \square = - 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3}
+
+- 12x^{3}y^{2} \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} - 12x^{3}y^{2} \times 1/\square \times 18x^{3}y^{3} = 8xy^{3}  \\ - 216x^{6}y^{5} \times 1/\square = 8x^{2}y^{3} 1/\square =  - 216x^{6}y^{5}/8x^{2}y^{3} = - 27x^{5}y^{2} \square = - 27x^{5}y^{2} 답 - 27x^{5}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} 에서 ( - 12x^{3}y^{2} ) \times 1/\square \times 18x^{3}y^{3} = 8xy^{3} 에서 \times \square 와 \times 1/8x^{2}y^{3} 을 해서 ( - 12x^{3}y^{2} ) \times 18x^{3}y^{3} \times 1/8x^{2}y^{3} = ( - 3x ) \times 9x^{3}y^{2} = 27x^{4}y^{2}
+- 12x^{3}y^{2} \times 1/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} 8x^{2}y^{3} \times 1/18x^{3}y^{3} = 4/9x 4/9x \times - 1/12x^{3} = - 1/27x^{4}y^{2} // - 27x^{4}y^{2}
+
+- 12x^{3}y^{2}/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} 27 \times x^{4} \times y^{2} 답 27x^{4}y^{2}
+
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} ( - 12x^{3}y^{2} ) \div \square = 8x^{2}y^{3} \times 1/18x^{3}y^{3} = 4/9x ( - 12x^{3}y^{2} ) \times 9x/4 = \square \square = - 27x^{4}y^{2} 답 - 27x^{4}y^{2}
+- 12x^{3}y^{2} \times 1/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} / - 12x^{3}y^{2} \times 18x^{3}y^{3} \times 1/\square = 8x^{2}y^{3} \\ - 216x^{6}y^{5} \times 1/\square = 8x^{2}y^{3} \square = - 27x^{4}y^{2} 답 = - 27x^{4}y^{2}
+1/27 x^{2}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \times
+- 12x^{3}y^{2} \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} 18x^{3}y^{3} \times \bigcirc = 8x^{2}y^{3} 8/18=4/9 \bigcirc = 4/9x \\ - 12x^{3}y^{2} \div \square = 4/9x \square = - 27x^{4}y^{2} \\ - 27x^{4}y^{2} 
+1/27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \times 18x^{3}y^{3} \div 8x^{2}y^{3} = ( - 12x^{3}y^{2} ) \times 18x^{3}y^{3} \times 1/8x^{2}y^{3} = ( - 3x^{3}y^{2} ) \times 9x = - 27x^{4}y^{2}
+- 12x^{3}y^{2} \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \square = 8x^{2}y^{3} \div 18x^{3}y^{3} \div ( - 12x^{3}y^{2} ) \square = 16x^{2}y^{2}/3 \therefore \square = 16x^{2}y^{2}/3 
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} = - 12x^{3}y^{2}/\square \times 1/8x^{2}y^{3} \times 18x^{3}y^{3} = - 27x^{3}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} 8x^{2}y^{3} \div 18x^{3}y^{3} = 8x^{2}y^{3} \times 1/18x^{3}y^{3} 4/9x - ( - 12x^{3}y^{2} ) = 4/9x + 12x^{3}y^{2}  
+- 12x^{3}y^{2} \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ -120x^{4}y^[2}
+
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \square =
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ - 216x^{6}y^{5} \square = - 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3}일 때 \square 안에 알맞은 식을 구하시오
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ - 216x^{6}y^{5}/\square = 8x^{2}y^{3} \square \times 8x^{2}y^{3} = - 216x^{6}y^{5} \square = - 216x^{6}y^{5} \div 8x^{2}y^{3} = - 27x^{4}y^{2}
+8x^{2}y^{3} \div 18x^{3}y^{3} = 8/9x - 12x^{3}y^{2} \times 9x/2 = -27/2 x^{4}y^{2} \\ -27/2 x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \square = 8x^{2}y^{3} \times 1/18x^{3}y^{3} \times - 12x^{3}y^{2} = 16x^{2}y^{2}/3
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} 일 때 ( - 12x^{3}y^{2} ) \div \square = 8x^{2}y^{3} \div 18x^{3}y^{3} ( - 12x^{3}y^{2} ) \div \square = 4/9x 이다. \square = ( - 12x^{3}y^{2} ) \div 4/9x \square = ( - 12x^{3}y^{2} ) \times 9x/4 \square =  - 27x^{4}y^{2} \therefore - 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} ( - 12x^{3}y^{2} ) \times 1/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ - 216x^{6}y^{5} \times 1/\square = 8x^{2}y^{3} - 216x^{6}y^{5} \times 1/8x^{2}y^{3} = \square // - 27x^{4}y^{2} = \square
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} ( - 12x^{3}y^{2} ) \div \square = 4/9x \\ - 12x^{3}y^{2}/\square = 4/9x \square = - 27x^{4}y^{2} 답 - 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div A \times 18x^{3}y^{3} = 8x^{2}y^{3} 8x^{2}y^{3} \div 18x^{3}y^{3} = 8x^{2}y^{3}/18x^{3}y^{3} = 4/9x - 12x^{3}y^{2} \div A = 4/9x - 12x^{3}y^{2} \times 9x/4 A = 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} 18x^{3}y^{3} \times 8x^{2}y^{3} = 36x \div ( - 12x^{3}y^{2} ) = - 12x^{3}y^{2} \div 36 = - 12x^{3}y^{2}/36 = 3x^{3}y^{2}
+- 12x^{3}y^{2} \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ - 12x^{3}y^{2} \div \square = 8x^{2}y^{3} \div 18x^{3}y^{3} \\ - 12x^{3}y^{2} \div \square = 4/9x \square = 27x^{4}/y^{2}
+27x^{4}y^{2}
+- 12x^{3}y^{2} \times 1/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} 1/\square = 8x^{2}y^{3} + 12x^{3}y^{2} \times 1/18x^{3}y^{3} = 8x^{2}y^{2}/3 \therefore \square = 3/8x^{2}y^{2}
+- 12x^{3}y \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ - 12x^{3}y/\square = 8x^{2}y^{3}/18x^{3}y^{3}= 4/9x \\ - 12x^{3}y = 4 \times \square /9x \square = - 27x^{4}y 답 - 27x^{4}y
+8x^{2}y^{3} \div 18x^{3}y^{3} = 8x^{2}y^{3}/18x^{3}y^{3} = 4/9x ( - 12x^{3}y^{2} ) \div \square = 4/9x ( - 12x^{3}y^{2} ) \times 4/9x = - 48x^{3}y^{2}/9x = - 16x^{2}y^{2}/3 \\ \square = - 16x^{2}y^{2}/3
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} ( - 12x^{3}y^{2} ) \div \square = 8x^{2}y^{3} \div 18x^{3}y^{3} = 8/18x ( - 12x^{3}y^{2} ) \div 8/18x = \square =  ( - 12x^{3}y^{2} ) \times 18x/8 = - 27x^{4}y^{2} \\  - 27x^{4}y^{2}
+- 12x^{3}y^{2}/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} 계수부터 보자 -12 \times 18 /\square = 8 \square = -27 x 차수는 x^{3} \times x^{2} / \square = x^{2} \square = x^{4} y차수는 y^{2} \times y^{3} / \square \square = y^{2} 정리하면 - 27x^{4}y^{2}
+
+- 12x^{3}y^{2} \times 1/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ - 12x^{3}y^{2} \times 1/\square = 4/9x \\  - 12x^{3}y^{2} = 4/9x \times \square \\  - 12x^{3}y^{2} \times 9x/4 = \square \square = - 27x^{4}y^{2}
+
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} 12 \times 18 = 216 \\ - 216x^{6}y^{5}/8x^{2}y^{3} = 8x^{2}y^{3} 27x^{4}y^{2}
+12x^{3}y^{2}/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} 216x^{6}y^{5}/\square = 8x^{2}y^{3} \square = 12x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ - 216x^{6}y^{5}/\square = 8x^{2}y^{3} \\ - 216x^{6}y^{5}/8x^{2}y^{3} = \square \square = - 27x^{4}y^{2} \\ - 27x^{4}y^{2}
+
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} ( - 12x^{3}y^{2} ) \div \square = 8x^{2}y^{3}/18x^{3}y^{3} = 4/9x ( - 12x^{3}y^{2} ) \div 4/9x = - 12x^{3}y^{2} \times 9x/4 = - 37x^{4}y^{2}
+
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} = ( - 12x^{3}y^{2} ) \times 18x^{3}y^{3} /\square= 8x^{2}y^{3} // - 216x^{6}y^{5}/\square = 8x^{2}y^{3} \square = - 27x^{4}y^{2} \therefore - 27x^{4}y^{2}
+
+- 12x^{3}y^{2}/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ - 12x^{3}y^{2}/\square = 4/9x 1/\square = 1/ - 27x^{4}y^{2} \therefore - 27x^{4}y^{2}
+- 12x^{3}y^{2}/\square \times 8/18x = 4/9x \square = 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \square = - 12x^{3}y^{2} \times 18x^{3}y^{3} \times 1/8x^{2}y^{3}  = - 27x^{4}y^{2} \therefore - 27x^{4}y^{2}
+4/9x 8x^{2}y^{3} \div 18x^{3}y^{3}  \times - 12x^{3}y^{2} = -16x^{2}y^{2}/3
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} ( - 12x^{3}y^{2} ) \times 1/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} ( - 3x^{3}y^{2} ) \times 1/\square \times 18x^{3}y^{3} = 2x^{2}y^{3} ( - 3x^{3}y^{2} ) \times 1/\square \times 9x^{3}y^{3} = x^{2}y^{3} - 27x^{6}y^{5} = x^{2}y^{3} \times \square \square = ( - 27x^{6}y^{5} ) \times 1/x^{2}y^{3} \square = - 27x^{4}y^{2} \therefore - 27x^{4}y^{2}
+- 12x^{3}y^{2} \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ - 12x^{3}y^{2} \times 18x^{3}y^{3} = 8x^{2}y^{3} \times \square \square = ( - 12x^{3}y^{2} ) \times ( 18x^{3}y^{3} ) / 8x^{2}y^{3} = - 27x^{4}y^{2} \therefore - 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} = 8x \therefore 8x
+
+
+- 12x^{3}y^{2} \times 1/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} \square = - 27x^{4}y^{2}
+8x^{2}y^{3} \div 18x^{3}y^{3} 1/x^{4} \times y 12/1 8/18 \times 1/x 포기
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \square = ( - 12x^{3}y^{2} ) \times 18x^{3}y^{3} \div 8x^{2}y^{3} = ( - 12x^{3}y^{2} ) \times 18x^{3}y^{3} \times 1/8x^{2}y^{3} = - 27x^{4}y^{2} \therefore \square = - 27x^{4}y^{2}
+
+\square = - 12x^{3}y^{2} \times 18x^{3}y^{3} / 8x^{2}y^{3} = - 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div A \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ - 12x^{3}y^{2}/A = 8x^{2}y^{3} \times 1/18x^{3}y^{3} = 4/9x A = - 12x^{3}y^{2} \times 9x/4 = 27x^{4}y^{2} \therefore 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ - 12x^{3}y^{2}/\square = 8x^{2}y^{3}/18x^{3}y^{3} = 4/9x \\ - 12x^{3}y^{2} =  4/9x \times \square \square = - 27x^{2}y^{2} \therefore - 27x^{2}y^{2}
+8x^{2}y^{3}/18x^{3}y^{3} = 4/9x \\ - 12x^{3}y^{2} ) \times 9x/4 = - 27x^{4}y^{2}
+
+( - 12x^{3}y^{2} ) \times 18x^{3}y^{3} \times 1/8x^{2}y^{3} = \square \\ - 27x^{4}y^{2} = \square
+( - 12x^{3}y^{2} ) \times 1/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} \therefore 54x^{4}y^{3}
+- 12x^{3}y^{2}/1 \times 1/\square \times 18x^{3}y^{3}/1 = 8x^{2}y^{3} 8x^{2}y^{3} \times 1/18x^{3}y^{3} = 4/9x \square = - 12x^{3}y^{2} \times 9x/4 = - 27x^{4}y^{2} \therefore - 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ - 216x^{6}y^{5} = 8x^{2}y^{3} \times \square \therefore \square = - 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \square = ( - 12x^{3}y^{2} ) \times 18x^{3}y^{3} \div ( 8x^{2}y^{3} ) = - 27x^{4}y^{2} \therefore - 27x^{4}y^{2}
+
+\square = - 12x^{3}y^{2} \times 18x^{3}y^{3} / 8x^{2}y^{3} = - 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \times 18x^{3}y^{3} = - 216x^{6}y^{5} 8x^{2}y^{3} \div ( - 216x^{6}y^{5} ) = 8x^{2}y^{3} \times ( - 1/216x^{6}y^{5} ) = - 1/27x^{4}y^{2} 답 - 1/27x^{4}y^{2}
+- 12x^{3}y^{2} \div \square \times 18x^{3}y^{3} = 2x^{2}y^{3} \\ - 216x^{6}y^{5} \div \square = 2x^{2}y^{3} \square = -108x^{4}y^{2}
+- 12x^{3}y^{2}/A = 4/9x 답 - 27x^{4}y^{2}
+
+1/\square = 8x^{2}y^{3} \times 1/18x^{3}y^{3} \times ( - 1/12x^{3}y^{2} ) 8x^{2}y^{3} / ( 18x^{3}y^{3} \times - 12x^{3}y^{2} ) = - 1/27x^{4}y^{2} = - 27x^{4}y^{2}
+12 \div 27 \times 18 = 8 답 = 27
+27x^{3}y^{2}
+- 12x^{6}y^{2}/\square = 8x^{2}y^{3}/18x^{3}y^{3} = 4/9x \\ - 12x^{6}y^{2} =  4/9x \times \square \square = - 12x^{6}y^{2} \times 9x/4 = - 27x^{7}y^{2} \therefore - 27x^{7}y^{2}
+- 27x^{4}y^{2}
+- 27x^{4}y^{2}
+- 27x^{4}y^{2}
+
+18x^{3}y^{3}/8x^{2}y^{3} = 9x/4 \\ 9x/4 \times - 12x^{6}y^{2} = - 27x^{4}y^{2}
+- 12x^{3}y^{2} \times 18x^{3}y / A = 8x^{2}y^{3} 216x^{6}y^{3}/A A = 27x^{4}
+( - 12x^{3}y^{2} ) \times 18x^{3}y^{3} \times ( 1/\square ) = - 216x^{6}y^{5} \times ( 1/\square ) = 8x^{2}y^{3} 1/\square = 8x^{2}y^{3} \div ( - 216x^{6}y^{5} ) = - 1/27x^{4}y^{2} \square = - 27x^{4}y^{2}
+구하자는 식을 a로 둘  주어진 식을 정리하면 - 12x^{3}y^{2} \times 1/a \times 18x^{3}y^{3} = 8x^{2}y^{3} 1/a \times 18x^{3}y^{3} = - 8x^{2}y^{3}/18x^{3}y^{3} 1/a = - 2y/3x \times 1/18x^{3}y^{3} 1/a = - 1/27x^{4}y^{2} a = - 27x^{4}y^{2}
+- 12x^{3}y^{2} \times 18x^{3}y^{3}/8x^{2}y^{3} = \square = - 27x^{4}y^{2}
+-96x^{6}y^{5} \div \square = 8x^{2}y^{3} \\ -12x^{4}y^{2} = \square \\  -12x^{4}y^{2}
+8x^{2}y^{3} \times 18x^{3}y^{3} = 1/9x 답 1/9x
+( - 12x^{3}y^{2} ) \times 1/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} 1/\square = - 1/27x^{4}y^{2}
+( - 12x^{3}y^{2} )/A \times 18x^{3}y^{3} = 8x^{2}y^{3} \therefore - 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \times 1/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ - 216x^{6}y^{5} \times 1/\square = 8x^{2}y^{3} - 27x^{4}y^{2}
+
+- 27x^{4}y^{2} - 12x^{3}y^{2} \times 1/\square \times 18x^{3}y^{3} = 8x^{2}y^{3}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \square = 5/6 x^{3}y^{2}
+- 12x^{3}y^{2} \times 9x/4 = - 27x^{4}y^{2}
+- 12x^{3}y^{2} \times 18x^{3}y^{2} \\ - 216x^{6}y^{4} \div 8x^{2}y^{3} \\ - 27x^{4}y
+- 12x^{3}y^{2} \times 1/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} = - 12 \times 18x^{6}y^{5}/\square = 8x^{2}y^{3} \square = 27x^{4}y^{2}
+- 12x^{3}y^{2} \times 18x^{3}y^{3} = 8x^{2}y^{3} \times \square \\ - 27x^{4}y^{2} = \square \therefore - 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \times 1/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ -12 \times 18x^{6}y^{5} \times \square = 8x^{2}y^{3} \square = 8x^{2}y^{3} / ( -12 \times 18x^{6}y^{5} ) = 1 / - 27x^{4}y^{2} \therefore 1/ - 27x^{4}y^{2}
+- 12x^{3}y^{2} \times 18x^{3}y^{3} = 8x^{2}y^{3} \times \square \\ - 12x^{3}y^{2} \times 18x^{3}y^{3} \times 1/8x^{2}y^{3} = \square \\ - 27xy^{3} = \square
+- 27x^{4}y^{2}
+- 12x^{3}y^{2} \times 1/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} \square = - 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \times 1/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} 1/\square = 8x^{2}y^{3} \times ( - 1/12x^{3}y^{2} ) \times 1/18x^{3}y^{3} = - 1/27x^{4}y^{2} \square = - 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \square = 27x^{4}y^{2}
+- 12x^{3}y^{2} \times 1/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ - 216x^{6}y^{5} \times 1/\square = 8x^{2}y^{3} \square = - 216x^{6}y^{5} \div 8x^{2}y^{3} = - 27x^{4}y^{2} \therefore - 27x^{4}y^{2}
+- 12x^{3}y^{2}/\square \times 18x^{5}y^{3} = 8x^{2}y^{3} \times 1/18x^{5}y^{3} = 4/9x^{3} \therefore - 12x^{3}y^{2}/\square = 4/9x^{3} \square = - 27x^{6}y^{2}
+- 12x^{3}y^{2} \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} = - 12x^{3}y/\square = 8x^{2}y^{3}/18x^{3}y^{2} = 4y/9x = - 12x^{3}y/\square = 4y/9x = 108x^{4}y = 4y \times \square \therefore \square = 27x^{4}
+\square = ( - 12x^{3}y^{2} ) \times 18x^{3}y^{3} \div 8x^{2}y^{3} = ( - 12xy \times 18x^{3} ) / 8 = - 27x^{4}y
+( 12 \times 18 \times x^{6} \times y^{5} ) / \square = 8x^{2}y^{3} \therefore \square = 27x^{4}y^{2}
+
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} ( - 12x^{3}y^{2} ) \times ( 18x^{3}y^{3} ) / \square = 8x^{2}y^{3} ( - 12x^{3}y^{2} ) ( 18x^{3}y^{3} ) = 8x^{2}y^{3} \square \square = - 27x^{4}y^{2} \therefore - 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \square \times 2/3y = 8x^{2}y^{3} \square = 8x^{2}y^{3} \times 3y/2 = 12x^{2}y^{4}
+1/27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ - 12x^{3}y^{2} \times 18x^{3}y^{3} = - 216x^{6}y^{5} \\ - 216x^{6}y^{5} \div \square = 8x^{2}y^{3} \square = - 216x^{6}y^{5} \div 8x^{2}y^{3} = - 32x^{4}y^{2} \therefore - 32x^{4}y^{2}
+8x^{2}y^{3} \times 1/18x^{3}y^{3} = 1/9x 12x^{3}y^{2} \div \square = 1/9x \square = 1/108 x^{4}y^{2}
+( - 12x^{3}y^{2} ) \times 1/\square \times 18x^{3}y^{3} \therefore - 27x^{4}y^{2}
+A = 1/27x^{4}y^{2} 8x^{2}y^{3}/18x^{3}y^{3} = - 12x^{3}y^{2}/A = 
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} ( - 12x^{3}y^{2} ) \times 1/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ - 216x^{6}y^{5}/\square = 8x^{2}y^{3} 8x^{2}y^{3} \times \square = - 216x^{6}y^{5} \square = - 216x^{6}y^{5}/8x^{2}y^{3} = - 27x^{4}y^{2} \therefore - 27x^{4}y^{2}
+\square= 8x^{2}y^{3} \times - 12x^{3}y^{2} \times 1/18x^{3}y^{3} 16x^{2}y^{3}/3y
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \square = - 27x^{4}y^{2}\therefore - 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} ( - 12x^{3}y^{2} ) \times 1/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} - 216x^{6}y^{5}/\square = 8x^{2}y^{3} \square = - 27x^{4}y^{2} \therefore - 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} 1/\square \times ( - 216x^{6}y^{5} ) = 8x^{2}y^{3} \square = - 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \square \times 8x^{2}y^{3} = ( - 12 ) \times ( 18 ) \times ( x^{3} \times x^{3} ) \times ( y^{2} \times y^{3} ) \square \times 8x^{2}y^{3} = - 216 \times x^{6} \times y^{8} \square = - 27x^{4}y^{2}
+- 12x^{3}y^{2} \times 1/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} 6x^{6}y^{5}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ - 12x^{3}y^{2}/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ - 206x^{6}y^{5}/\square
+- 12x^{3}y^{2} \times 18x^{3}y^{3} \div \square = 8x^{2}y^{2} \\ - 216x^{6}y^{5} \div \square = 8x^{2}y^{2} \square= - 27x^{4}y^{3}
+( -12 \times 18 ) x^{3} \times x^{3} \times y^{2} \times y^{3} \times 1/\square = 8x^{2}y^{3} \\ -216x^{3+3} \times y^{2+3} \times 1/\square = 8x^{2}y^{3} // - 216x^{6}y^{5} \times 1/\square = 8x^{2}y^{3} 1/\square = - 1/27x^{4}y^{2} 답 - 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3}일 때 \square 안에 알맞은 식을 구하시오
+- 12x^{3}y^{2}/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} \square = - 216xy^{2}
+\square = ( - 12x^{3}y^{2} \times 18x^{3}y^{3} ) / 8x^{2}y^{3} = - 27x^{4}y^{2} \therefore - 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} 8x^{2}y^{3} \div 18x^{3}y^{3} \times ( - 1/12x^{3}y^{2} ) 8x^{2}y^{3} \div 4/3 x^{6}y^{5} = 6x^{8}y^{8}
+- 12x^{3}y^{2} \times 1/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ - 216x^{6}y^{5} / \square = 8x^{2}y^{3} \\ -9x^{4}y^{2}
+
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \square =
+- 12x^{3}y^{2}/\square \times 18x^{3}y^{3} = - 12 \times 18x^{6}y^{5} / \square = 8x^{2}y^{3} \therefore - 27x^{4}y^{2}
+- 12x^{3}y^{2} \times 18x^{3}y^{3} \times 1/\square = 8x^{2}y^{3} \\ - 216x^{6}y^{5}/\square = 8x^{2}y^{3} \square = - 27x^{4}y^{2} \therefore - 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} ( - 12x^{3}y^{2} ) \div \square = 4/9x \square =  = ( - 12x^{3}y^{2} ) \times 9x/4 \square = - 27x^{4}y^{3}
+8x^{2}y^{3}/18x^{3}y^{3} = 4/9x \\ - 12x^{3}y^{2} \div 4/9x = - 12x^{3}y^{2} \times 9x/4 = - 27x^{4}y^{2}
+- 12x^{3}y^{2} \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} = 4/27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div \square = 8x^{2}y^{3} \div 18x^{3}y^{3} = 4/9x \square = 4/9x \div ( - 12x^{3}y^{2} ) = 4/9x \times ( - 1/12x^{3}y^{2} ) = - 1/27x^{4}y^{2} \therefore \square = - 1/27x^{4}y^{2}
+- 12x^{3}y^{2}/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ - 12x^{3}y^{2}/\square = 4/x 4 \times \square = -108x^{4}y^{2} \square = - 27x^{4}y^{2} \therefore - 27x^{4}y^{2}
+- 12x^{3}y^{2}/\square = 4/9x x = - 27x^{4}y^{2}
+- 12x^{3}y^{2} \times 1/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} x^{3}/27
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} = - 12x^{3}y^{2} \times 18x^{3}y^{3} / \square = - 216x^{6}y^{5}/\square = 8x^{2}y^{3} \square = - 27x^{4}y^{2} 답 - 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \times 1/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} ( - 12x^{3}y^{2} ) \times 18x^{3}y^{3} \times 1/8x^{2}y^{3} = - 12 \times 18 / 8 x^{4} y^{2} = - 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \square 를 A라 하고 식을 쓰면  ( - 12x^{3}y^{2} ) \times 1/A \times 18x^{3}y^{3} = 8x^{2}y^{3} ( - 12x^{3}y^{2} ) \times 18x^{3}y^{2} = 8x^{2}y^{3} \times A A = - 27x^{4}y
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} ( - 12x^{3}y^{2} ) /\square = 8x^{2}y^{3} \times 1/18x^{3}y^{3} = 8/18x = 4/9x 1/\square = 4/9x \times 1/( - 12x^{3}y^{2} ) = - 1/27x^{4}y^{2} \therefore - 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} = - 12x^{3}y^{2} \div \square = 4/9x = \square = - 27x^{4}y^{2} \therefore - 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} - 216x^{6}y^{5}
+- 27x^{4}y^{2}
+8x^{2}y^{3} \div 18x^{3}y^{3} = 4/9x \\ ( - 12x^{3}y^{2} ) \div \square = 4/9x ( - 12x^{3}y^{2} ) \div 4/9x = - 27x^{4}y^{2}  - 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ - 12x^{3}y^{2}/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} 8x^{2}y^{3} \times 1/18x^{3}y^{3} = 4/9x \\ - 12x^{3}y^{2}/\square = 4/9x \\  - 12x^{3}y^{2} \times 9x/4 = - 27x^{4}y^{2} \therefore - 27x^{4}y^{2}
+\square \times 18x^{3}y^{3} = 8x^{2}y^{3}/( - 12x^{3}y^{2} ) = - 2y/3x \square = - 2y/3x \div 8x^{3}y^{3} = - 1/27x^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ ( - 12x^{3}y^{2} ) \div \square = 8x^{2}y^{3}/18x^{3}y^{3} \\ - 12x^{3}y^{2} \div \square = 4/9x \square = 4/9x \times - 12x^{3}y^{2} = - 16/3 x^{2}y^{2}
+\square = - 12x^{3}y^{2} \times 18x^{3}y^{3} / 8x^{2}y^{3} = - 27x^{4}y^{2}
+- 27x^{4}y^{2}
+- 12x^{3}y^{2} \div \square = 4/9x \square = - 27x^{4}y^{2}
+- 12x^{3}y^{2} \times 1/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} 1/\square = 8x^{2}y^{3} \times - 1/12x^{3}y^{2} \times 1/18x^{3}y^{3} 1/\square = - 1/27x^{4}y^{2} \therefore - 27x^{4}y^{2}
+- 27x^{4}y^{2}
+
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ - 12x^{3}y^{2} \times 18x^{3}y^{3} = 8x^{2}y^{3} \times \square \\ - 12 \times 18x^{6}y^{5} = 8x^{2}y^{3} \times \square \square = x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} ( - 12x^{3}y^{2} ) \times 1/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ - 216x^{6}y^{5} \times 1/\square = 8x^{2}y^{3} 1/\square = - 1/27x^{4}y^{2} \square = - 27x^{4}y^{2} 답 - 27x^{4}y^{2}
+\square = 8x^{2}y^{3} \times 1/18x^{3}y^{3} \times - 12x^{3}y^{2} \square = -2x^{2}y^{2}/3 /therefore 2x^{2}y^{2}/3
+( - 12x^{3}y^{2} ) \times 18x^{3}y^{3} \times 1/8x^{2}y^{3} = - 3x \times 9x^{3}y^{2} 답 - 27x^{4}y^{2}
+- 12x^{3}y^{2} \div \square = 4/9x \square = - 27x^{2}y^{2}
+( - 12x^{3}y^{2} ) \div \square = 8x^{2}y^{3} \times 1/18x^{3}y^{3} = 4/9x \square = ( - 12x^{3}y^{2} ) \div 4/9x = ( - 12x^{3}y^{2} ) \times 9x/4 = - 27x^{4}y^{2} \therefore - 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \square = - 27x^{4}y^{2} 답 - 27x^{4}y^{2}
+\square = 8x^{2}y^{3} \times 1/18x^{3}y^{3} \times - 12x^{3}y^{2} \square = 6/x 답 6/x
+- 216x^{6}y^{5} \times 1/\square = 8x^{2}y^{3} 8x^{2}y^{3} \times - 1/216x^{6}y^{5} 1/\square = 1/27x^{4}y^{2} 답 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div \square = 8x^{2}y^{3}/18x^{3}y^{3} = 4/9x \square = ( - 12x^{3}y^{2} ) \times 4/9x = - 27x^{4}y^{2} 답 - 27x^{4}y^{2}
+- 12x^{3}y^{2} \times 1/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} 1/\square \times ( - 216x^{6}y^{5} ) = 8x^{2}y^{3} 1/\square = - 1/27x^{4}y^{2}
+\square = -12 \times 8x^{6}y^{5} / 8x^{2}y^{3} = -12x^{4}y^{2}
+답 - 27x^{4}y^{2} \\ - 12x^{3}y^{2} \times 18x^{3}y^{3} / \square = 8x^{2}y^{3}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} 1/\square = 8x^{2}y^{3} \times ( - 1/12x^{3}y^{2} ) \times 1/18x^{3}y^{3} 1/\square = - 1/27x^{4}y^{2} \square = - 27x^{4}y^{2}
+
+( - 12x^{3}y^{2} ) \times 1/\square \times 18x^{3}y^{3} = 18x^{3}y^{3}  1/\square = 18x^{3}y^{3} \times 1/18x^{3}y^{3} \times - 1/12x^{3}y^{2}  \square = - 12x^{3}y^{2} \therefore - 12x^{3}y^{2}
+
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \square = ( - 12x^{3}y^{2} ) \times 18x^{3}y^{3} \times 1/8x^{2}y^{3} = - 27x^{4}y^{2} 답 - 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} ( - 12x^{3}y^{2} ) \div \square = 8x^{2}y \times 1/18x^{3}y^{3} 4/9xy^{4} = ( - 12x^{3}y^{2} ) \div \square 1/\square = 4/9xy^{4} \times -1/12x^{3}y^{2} = 1/ - 27x^{4}y^{6} = - 1/27x^{4}y^{6} \square = - 27x^{4}y^{6} 답 - 27x^{4}y^{6}
+( - 12x^{3}y^{2} ) \times 1/\square \times 18x^{3}y^{3} = 8x^{2}y^{3} \\ - 216x^{6}y^{5} \times 1/\square = 8x^{2}y^{3} \\ - 216x^{6}y^{5} \times 1/8x^{2}y^{3}  = - 27x^{4}y^{2} \therefore - 27x^{4}y^{2}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} \square = ( - 12x^{3}y^{2} ) \times 18x^{3}y^{3} \div 8x^{2}y^{3} = - 27x^{4}y^{2}
+- 216x^{6}y^{5}/\square = 8x^{2}y^{3} \square = - 27x^{4}y^{2} \therefore - 27x^{4}y^{2}
+- 1/27x^{3}y^{2} \\ - 12x^{3}y^{2} \times 18x^{3}y^{3} = 216x^{6}y^{5} \times 1/8x^{2}y^{3}
+( - 12x^{3}y^{2} ) \div \square \times 18x^{3}y^{3} = 8x^{2}y^{3} = 1/\square \times ( - 12x^{3}y^{2} ) \times ( 18x^{3}y^{3} ) \times 1/ ( - 12x^{3}y^{2} \times 18x^{3}y^{3} ) = 8x^{2}y^{3} / ( - 12x^{3}y^{2} \times 18x^{3}y^{3} ) = 1/\square = - 1/27x^{4}y^{2} \square = 27x^{4}y^{2} 답 27x^{4}y^{2}
+- 27x^{3}y^{2}

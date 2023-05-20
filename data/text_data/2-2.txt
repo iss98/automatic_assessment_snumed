@@ -1,0 +1,241 @@
+
+x^{2}y \times 3x^{3}y = 3x^{5}y^{2} x^{2}y \times x^{3}y
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3 \times x^{2} \times x^{3} \times y^{2} = 3x^{5}y^{2} \therefore 3x^{5}y^{2}
+x^{2}y \times 3x^{3}y^{2} = x^{2} \times y \times 3 \times x^{3} \times y^{2} = 3 \times x^{5} \times y^{3} = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = x^{2} \times y \times 3 \times x^{3} \times y^{2} = 3 \times x^{2} \times x^{3} \times y \times y^{2} = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} 답 3x^{5}y^{3}
+3 \times 1 x^{2} + x^{3} y + y^{2} 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} 답 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} 답 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{2 + 3}y^{1 + 2} = 3x^{5}y^{3}
+3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{4}y^{3}
+
+
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} 답 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3 \times ( x^{2} \times x^{3} ) ( y \times y^{2} ) 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3 \times x^{2 + 3} \times y^{1 + 2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{6}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2} \times 3x^{3} \times y \times y^{2} = 3x^{5} \times y^{3}
+3x^{5}y^{3} x^{2}y \times 3x^{3}y^{2}
+3 \times x^{2 + 3} \times y^{1 + 2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} 3xy \times 
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2} \times 3x^{3} \times y \times y^{2} = 3x^{5} \times y^{3}
+x^{2} \times 3x^{3} \times y \times y^{2} = 3x^{5} \times y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3 \times x^{2} \times x^{3} \times y \times y^{2} = 3x^{5} \times y^{3}
+
+3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3 \times ( x^{2} \times x^{3} ) \times ( y \times y^{2} ) = 3 \times ( x^{5} ) \times y^{3} = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3 \times x^{2 + 3} \times y^{1 + 2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+3x^{5}y^{3}
+3x^{5}y^{3}
+1 \times 3 \times x^{2} \times x^{3} \times y \times y^{2} = 3 \times x^{5} \times y^{3} = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3 \times x^{2} \times x^{3} \times y \times y^{2} = 3x^{5} \times y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{6}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3 \times x^{2} \times x^{3} \times y \times y^{2} = 3x^{5} \times y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+3 \times x^{5} \times y^{3} = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = x^{2} \times y \times 3 \times x^{3} \times y^{2} = 3 \times x^{2} \times x^{3}y \times y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} 답 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} 답 3x^{5}y^{3}
+x^{2} \times y \times 3 \times x^{3}y^{2} = 3 \times x^{2} \times x^{3} \times y \times y^{2} = 3x^{5}y^{3} 답 = 3x^{5}y^{3}
+3x^{5}y^{3} 3x^{2 + 3}y^{1 + 2}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+3x^{5}y^{3} x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+3x^{5}y^{3}
+3x^{5}y^{3}
+3 \times x^{5} \times y^{3} = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+3x^{5}y^{3}
+
+3x^{5} + y^{2}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} 3 \times 1 x^{2} \times x^{3} y^{1} \times y^{2} x^{2 + 3} y^{1 + 2}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 
+x^{2}y \times 3x^{3}y^{2} = x \times x \times y \times 3 \times x \times x \times x \times y \times y = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3 \times ( x^{2 + 3} ) ( y^{1 + 2} ) = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3 \times x^{2} \times x^{3} \times y \times y^{2} = 3x^{2 + 3}y^{1 + 2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3 \times x^{2} \times x^{5} \times y \times y^{2} = 3 \times x^{2 + 5} \times y^{1 + 2} = 3x^{7}y^{3} 답 3x^{7}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{2 + 3}y^{1 + 2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x \times x^{2} \times y \times y^{2} = 3x^{3} \times y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3 \times ( x^{2} \times x^{3} ) \times ( y \times y^{2} ) = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3 \times ( x^{2} \times x^{3} ) \times ( y \times y^{2} ) = 3 \times x^{5} \times y^{3} = 3x^{5}y^{3} 답 3x^{5}y^{3}
+3x^{5}y^{3}
+3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3 \times x^{2} \times x^{3} \times y \times y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3 \times x^{2} \times x^{3} \times y \times y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3 \times ( x^{2} \times x^{3} ) \times ( y \times y^{2} ) = 3x^{5}y^{3} 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3 \times ( x^{2} \times x^{3} ) \times ( y \times y^{2} ) = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{3}x^{2}y^{2}y
+3x^{5}y^{3}
+x^{2}y \times 3x^{3} \times y^{2} = 3 \times x^{2} \times x^{3} \times y \times y^{2} = 3x^{5} \times y^{3} 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{3}
+3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = ( 1 \times 3 ) \times ( x^{2} \times x^{3} ) \times ( y \times y^{2} ) = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3 \times x^{2} \times x^{3} \times y \times y^{2} = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+3 \times ( x^{2} ) \times ( x^{3} ) \times ( y ) \times ( y^{2} ) = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = y \therefore y
+3x^{5}y^{3}
+
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+
+3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3 \times x^{2} \times x^{3} \times y \times y^{2} = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+3x^{5}y^{3}
+
+3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} 답 3x^{5}y^{3}
+3x^{3}y^{2} \times x^{2}y 3 + 2 = 5 2 + 1 = 3 \therefore 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3 \times x^{2} \times x^{3} \times y \times y^{2} = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{4}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+3x^{5}y^{3}
+
+x^{2}y \times 3x^{2}y^{2} = 3x^{4}y^{3}
+3x^{5}y^{3}
+3x^{5}y^{3}
+\therefore 3x^{5}y^{3}
+3x^{5}y^{3}
+3x^{5}y^{3}
+3x^{5}y^{3}
+3x^{5}y^{3}
+3x^{5}y^{3}
+3x^{5}y^{3}
+x^{2} \times y \times 3 \times x^{3} \times y^{2} = 3 \times x^{2} \times x^{3} \times y \times y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3 \times x^{2}y \times x^{3}y^{2} = 3x^{5}y^{3}
+3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x \times x \times x \times x \times x \times y \times y \times y \times 3 = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+3x^{5}y^{3}
+3x^{5}y^{3}
+3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+3x^{5}y^{3}
+3x^{5}y^{3}
+3x^{3}y^{2} \times x^{2}y = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+3 \times x^{2} \times x^{3} \times y \times y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 1 \times 3 \times x^{2} \times x^{3} \times y \times y^{3} = 3x^{5}y^{4}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{3 + 2}y^{2 + 1} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{3} \times x^{2} \times y^{2} \times y = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+3x^{5}y^{3}
+x^{2}y 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3 \times x^{2} \times x^{3} \times y \times y^{2} = 3 \times x^{5} \times y^{3} = 3x^{5}y^{3}
+3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3 \times x^{5} \times y^{3} = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+3x^{5}y^{3}
+3x^{5}y^{3}
+3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3 \times x^{2} \times x^{3} \times y \times y^{2} = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = ( 1 \times 3 ) \times ( x^{2} \times x^{3} ) \times ( y \times y^{2} ) = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2} \times x^{3} \times y \times y^{2} \times 3 = 3x^{2 + 3} \times y^{1 + 2} = 3x^{5}y^{3} 답 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3 \times x^{2} \times x^{3} \times y \times y^{2} = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2} + 3x^{3} = 3x^{5} = y + y^{2} = y^{2} = 3x^{5} \times y^{2}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+3x^{5}y^{3}
+\therefore 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 6x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 4x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+3x^{5}y^{3}
+3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} 답 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+3x^{5}y^{3}
+3 \times x^{5} \times y^{3} = 3x^{5}y^{3} 3x^{5}y^{3}
+3x^{6}y^{2}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+3x^{5}y^{3} 3 \times x^{2 + 3} \times y^{1 + 2}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} 답 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+답 3x^{5}y^{3}
+3x^{5}y^{3}
+x^{2} \times y \times 3 \times x^{3} \times y^{2} \therefore 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} 답 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+답 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} 답 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+3x^{5}y^{3}
+답 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} 답 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3x^{5}y^{3} \therefore 3x^{5}y^{3}
+3x^{5}y^{3}
+x^{2}y \times 3x^{3}y^{2} = 3 \times x^{2} \times x^{3} \times y \times y^{2} = 3 \times x^{5} \times y^{3} = 3x^{5}y^{3} 답 = 3x^{5}y^{3}
+3x^{5}y^{3}

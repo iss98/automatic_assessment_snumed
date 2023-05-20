@@ -1,0 +1,241 @@
+
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{4 \times 3} \ times x^{2 \times 5} = x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{4 \times 3} \ times x^{2 \times 5} = x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{4 \times 3} \ times x^{2 \times 5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} 는 지수법칙으로 괄호를 풀면 x^{12} \ times x^{10} 이고, x^{12 + 10} 이므로 x^{22} 이다
+\left (x^{4} \right )^{3} \times \left (x^{2} \right )^{5} = \left (x^{4} \right )^{3} = x^{4} \times x^{4} \times x^{4} = x^{12} \left(x^2 \right )^5 = x^{2} \times x^{2} \times x^{2} \times x^{2} \ x^{2} = x^{10} 고로 \left(x^4\right)^3 \times \left(x^1\right)^5 = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5}  x^{12} \times x^{10}  x^{12 + 10}  x^{22}
+
+x^{12} \times x^{10} = x^{22}
+
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+x^{12} \times x^{10} = x^{22}
+x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{4 \times 3} \times x^{2 \times 5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{4 \times 3}  = x^{12} = x^{2 \times 5} = x^{10} = x^{12} + x^{10} = x^{22}
+
+x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = \left (x^{8} \right )^{15}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+x^{4} \times x^{4} \times x^{4} \times x^{2} \times x^{2} \times x^{2} \times x^{2} \times x^{2} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+x^{4 \times 3} \times x^{2 \times 5} = x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{7} \times x^{7} = x^{14}
+
+x^{4 \times 3} \times x^{2 \times 5} = x^{12 + 10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{4 \times 3} \times x{2 \times 5} = x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+x^{12} \times x^{10}  x^{120}
+x^{12} \times x^{10} = x^{22}
+x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+x^{3 \times 4} \times x^{2 \times 5} = x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{4 \times 3} \times x{2 \times 5} = x^{12} \times x^{10} = x^{22}
+x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{4 \times 3} \times x{2 \times 5} = x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{7} \times x^{7} =x^{49}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{4 \times 3} \times x{2 \times 5} = x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} 에서 4 \times 3 과 2 \times 5 를 해서 x^{12} \times x^{10} 여기에서 12 + 10 을 해 x^{22}
+x^{7} \times x^{7} = x^{14}
+x^{3 \times 4} \times x^{2 \times 5} = x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{4 \times 3} \times x{2 \times 5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{4 \times 3} \times x{2 \times 5} = x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+x^{12} \times x^{10}  x^{12 + 10} = x^{22}
+x^{12} \times x^{10} = x^{22}
+x^{14}
+x^{12} \times x^{10}  x^{12 + 10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+
+x^{12} \times x^{10}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{4 \times 3} \times x{2 \times 5} = x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = \left (x^{8})^{15}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{4 \times 3} \times x{2 \times 5} = x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{4 \times 3} \times x{2 \times 5} = x^{12 + 10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{4 \times 3} \times x{2 \times 5} = x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{4 \times 3} \times x{2 \times 5} = x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = ( x^{4} \times x^{4} \times x^{4} ) \times (x^{2} \times x^{2} \times x^{2} \times x^{2} \times x^{2} ) = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{4 \times 3} \times x{2 \times 5} = x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{4 \times 3} \times x{2 \times 5} = x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+x^{22}
+x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{4 \times 3} \times x{2 \times 5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{4 \times 3} \times x{2 \times 5} = x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} =  x^{12} \times x^{10} = x^{22}
+x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+가로를 풀어서 지수법칙대로 푼다 x^{12} \times x^{10} = x^{22}
+x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{4 \times 3} \times x{2 \times 5} = x^{13} \times x^{10} = x^{10 + 13} = x^{23}
+4 \times 3 + 2 \times 5 = 22  x^{22}
+x^{12} \times x^{10} = x^{22}
+x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{8}
+x^{22}
+x^{120}
+x^{12} \times x^{7} = x^{19}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+
+x^{22}
+x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} 이고 x^{12} \times x^{10} = x^{12 + 10} = x^{22} 이다  x^{22}
+x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+x^{12} \times x^{10} = x^{22}
+x^{4 \times 3} \times x{2 \times 5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{20} \\ 4 \times 3 = 12 2 \times 5 = 10  12 + 10 = 22
+x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+x^{12} \times x^{10} = x^{22}
+x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+x^{22}
+x^{22}
+x^{12} \times x^{10} = x^{22}
+x^{22}
+x^{22}
+x^{12} \times x^{10} = x^{22}
+x^{22}
+x^{12} \times x^{10} = x^{22}
+x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+x^{12} \times x^{10} = x^{22}
+x^{22}
+x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+x^{22}
+x^{22}
+x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{22}
+x^{12} \times x^{10} = x^{22}
+x^{12} \times x^{10} = x^{22}
+x^{12} \times x^{10} = x^{22}
+x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+x^{19} = x^{12 + 7}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+x^{22}
+x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+x^{12} \times x^{10} = 12 + 10 = 22 = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{4} \times x^{4} \times x^{4} \times x^{2} \times x^{2} \times x^{2} \times x^{2} \times x^{2} = x^{12} \times x^{10} = x^{22}
+x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+x^{19}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+x^{12 + 10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{4} \times x^{4} \times x^{4} \times x^{2} \times x^{2} \times x^{2} \times x^{2} \times x^{2} = x^{12} \times x^{10} = x^{22}
+x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{3 \times 4} \times x^{2 \times 5}= x^{12 + 10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{22}
+x^{12} \times x^{10} = x{12 + 10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+x^{12} \times x^{10} = x^{22}
+x^{4} \times x^{2} = x^{8}  3+5 = 8 = \left (x^{8} \right)^{8}
+x^{12} \times x^{10} = x^{22}
+x^{12} \times x^{10} = x^{22}
+x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+x^{22}
+x^{12} \times x^{10} = x^{22}
+x^{3 \times 4} \times x^{2 \times 5}= x^{12 + 10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{12 + 10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times x^{10} = x^{22}
+x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+x^{12} \times x^{10} = x^{22}
+x^{12} \times x^{10} = x^{22}
+x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = a^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+x^{12} \times x^{10} = x^{22}
+x^{12 + 10} = x^{22}
+4 \times 3 + 2 \times 5 = 22  x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+x^{22}
+x^{22}
+x^{12} \times x^{10} = x^{22}
+x^{12} \times x^{10} = x^{22}
+x^{12} \times x^{10} = x^{22}
+x^{12} \times x^{10} = x^{12}
+x^{12} \times x^{10} = x^{22}
+x^{12} \times x^{10} = x^{22}
+x^{22}
+x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+
+x^{12} \times x^{10} = x^{22}
+x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{12} \times x^{10} = x^{22}
+x^{12} \times x^{10} = x^{22}
+x^{12} \times x^{10} = x^{22}
+\left (x^{4} \right )^{3} \times \left(x^{2} \right )^{5} = x^{4} \times x^{4} \times x^{4} \times x^{2} \times x^{2} \times x^{2} \times x^{2} \times x^{2} = x^{12} \times x^{10} = x^{22}
+x^{22}

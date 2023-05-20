@@ -1,0 +1,241 @@
+
+a^{12} \div a^{3} \div a^{9} = a^{12-3} \div a^{9} = a^{9} \div a^{9} = a^{9} \times 1/a^{9} = a^{9}/a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12} \div a^{12} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12-3} \div a^{9} = a^{9} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12-3-9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12} \times 1/a^{3} \times 1/a^{9} = a^{12}/a^{3 + 9} = a^{12}/a^{12} = 1
+a^{12} \div a^{3} \div a^{9} = 지수끼리의 나눗셈은 - 로 계산한다 고로 a^{12} \div a^{3} \div a^{9} = a 다
+a^{12} \div a^{3} \div a^{9} = a^{12-3-9} = 1
+
+a^{12} \div a^{3} \div a^{9}  a
+
+a^{12} \div a^{3} \div a^{9} = a^{12-3-9} = 1
+
+a^{12} \times 1/a^{3} \times 1/a^{9} = a^{12} \times 1/a{3 + 9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{9} \div a^{9} = a
+a^{12} \div a^{3} \div a^{9} = a^{12} \times 1/a^{3} \times 1/a^{9} = a^{12} \times 1/a^{12} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12} \times 1/a^{3} \times 1/a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{9} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = 1
+
+a^{12} \div a^{3} \div a^{9} = a^{9} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{9} \div a^{9} = 1
+a^{12} \times 1/a^{3} \times 1/a^{9} = a^{12} /times 1/a^{12} = 1
+a^{12} \div a^{3} \div a^{9} = a^{9} \div a^{9} = 1
+a^{12} \times 1/a^{3} \times 1/a^{9} = a^{12}/a^{12} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12 - 3 - 9} = 0
+수학 너무 어려워요
+a^{12} \times 1/a^{3} = {a \times a \times a \times \cdots }/{a \times a \times a}, {a \times a \times a \times \cdots }/{a \times a \times a \times \cdots } = 1
+{a \times a \times a \times a \times a \times a \times a \times a \times a \times a \times a \times a \times}/{a \times a \times a} = a^{9}/a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = 1
+a^{12-3-9} = 1
+a^{12} \div a^{3} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12} \times 1/a^{3} \times 1/a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12} \times 1/3a \times 1/a9 = a^{12}/3a \times 1/a9 = a^{12}/27a^{2} = a^{10}/27
+
+a^{12} \div a^{3} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12}/a^{3} = a^{9} \div a^{9} = 1/1 = 1
+a^{4}/a^{9}
+a
+a^{12} \div a^{3} \div a^{9} = a^{9} \div a^{9} = a^{9}/a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12 - 3} \div a^{9} = a^{9} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12} \times 1/a^{3} \times 1/a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12-3-9} = a
+a^{12} \div a^{3} \div a^{9} = a^{12-3-9} = 1
+a^{12} \times 1/a^{3} \times 1/a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12} \div a^{3} = a^{9} \\ a^{9} \div a^{9} = a^{9}/a^{9} = 1
+a^{12} \times 1/a^{3} \times 1/a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12}/{ a^{3} \times a^{9} } = a^{12}/a^{12} = 1
+
+a^{12} \div a^{3} \div a^{9}  a^{9} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} 는 12 - 3 을 먼저해서 9 여기에 이를 빼주면 1
+a^{12} \times 1/a^{3} \times 1/a^{9} = a^{12} \times 1/a^{12} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12 - 3 - 9} = a^{9 - 9} = 1
+a^{12} \times 1/a^{3} \times 1/a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12} \times 1/a^{3} \times 1/a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{9} \div a^{9} = 1
+a^{12} \times 1/a^{3} \times 1/a^{9} = a^{9} /times 1/a^{9} = 1
+a^{9} - a^{9} = 1
+a^{12} \div a^{3} \div a^{9}  a^{12 - 3}  a^{9} \div a^{9}  a^{9 \div a} = 1
+1
+a
+a^{12} \times 1/a^{3} \times 1/a^{9} = a^{12}/a^{12} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12 - 3 - 9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12} \times 1/a^{3} \times 1/a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{9} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a
+a^{12} \div a^{3} \div a^{9} = a^{24}
+a^{6}
+a^{12} \div a^{3} \div a^{9} = a^{12 - 3} = a^{9 - 9} = a
+a^{12} \div a^{3} \div a^{9} = a^{12 - 3 - 9} = 1
+a^{12} \div a^{3} \div a^{9} = 
+a^{12} \div a^{3} \div a^{9} = a^{12 - 3} \div a^{9} = a^{9} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{9} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12 -3 - 9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12 - 3} \div a^{9} = a^{9} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12 -3 - 9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12}/( a^{3} \times a^{9} ) = a^{12}/a^{12} = 1
+a^{12} \div a^{3} \div a^{9} = a^{9 \div 3} = a^{3 \div 12} = a^{12 \div 3} = a^{4}
+a^{12} \div a^{3} \div a^{9} = ( a^{12} \div a^{3} ) \div a^{9} = a^{9} \div a^{9} =1
+a^{12} \div a^{3} \div a^{9} = a^{9} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12 - 3 - 9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{9} \div a^{9} = 1
+1
+a^{12} \div a^{3} \div a^{9} = a^{9} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{9} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{4} \div a^{9} = a^{4}/a^{9}
+a^{12} \div a^{3} \div a^{9} = a^{12} \times 1/a^{3} \times 1/a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12 - 3 - 9} = a^{0} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12}/a^{12} = 1
+a^{12} \div a^{3} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = ( a^{12} \div a^{3} ) \div a^{9} = a^{9} \div a^{9} =1
+차례대로 푼다 a^{12} \div a^{3} \div a^{9} = a^{9} \div a^{9} =1
+a^{12} \div a^{3} \div a^{9} = a^{12}/(a^{3} \times a^{9} ) = a^{12}/a^{12} = 1
+1
+a^{12} \div a^{3} \div a^{9} = a^{12} \times 1/a^{3} \times 1/a^{9} = a^{12}/a^{12} = 1
+1
+a^{9} \div a^{9} = 1
+a^{12} \div a^{12} = 1
+a^{12} \div a^{3} \div a^{9} = a^{9} /div a^{9} = 1
+1
+a^{12} \div a^{3} \div a^{9} = a^{12} \times 1/a^{3} \times 1/a^{9} = a^{9} \times 1/a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12}/(a^{3} \times a^{9} ) = a^{12}/a^{12} = 1
+a^{12} \div a^{3} \div a^{9} = a^{4}
+1
+1
+a^{12} /times 1/a^{3} \times 1/a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12} /times 1/a^{3} \times 1/a^{9} = 1
+
+1
+a^{12} \div a^{3} \div a^{9} = a^{12} /times 1/a^{3} \times 1/a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12 - 3 - 9} = 1
+a^{12} \div a^{3} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = 1
+a^{9} \times a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12} /times 1/a^{3} \times 1/a^{9} = a^{5}
+a^{12} a^{-3) a^{-9}   a^{0} = 1
+a^{12} \div a^{3} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12} /div a^{12} = 1
+
+a^{12} \div a^{3} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{9} /div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = 1
+1
+1
+a^{12} /times 1/a^{3} \times 1/a^{9} = 1
+1
+1
+a^{12} \div a^{3} \div a^{9} = a^{12} \times 1/a^{3} \times a^{9} = a^{12}/a^{12} = 1
+1
+1
+1
+a
+a^{12}/a^{3} \times 1/a^{9} = a^{9} \times 1/a^{9} = 1
+1
+a^{12} \div a^{3} \div a^{9} = a^{9} /div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12 - 3 - 9} = 1
+1
+a^{12 - 3 - 9} = a^{12 - 12} = a^{12} \div {12} = 1
+1
+a^{12} \div a^{3} \div a^{9} = a^{12 - 3 - 9} = a
+a^{12} \div a^{3} \div a^{9} = a^{12} /div a^{12} = 1
+1
+1
+1
+a^{12} \div a^{3} \div a^{9} = 1
+a^{9} /div a^{9} = 1
+a^{9} /div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = 1
+a^{12} \div ( a^{3} \times a^{9} ) = a^{12} /div a^{12} = 1
+a = a^{12 -3 - 9}
+a^{12} \div a^{3} \div a^{9} = a^{12} /times 1/a^{3} \times 1/a^{9} = 1
+1
+a^{12} \div a^{3} \div a^{9} = a^{12 - 3} /div a^{9} = a^{9} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12} /div a^{12} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12} \div ( a^{3} \times a^{9} ) = 1
+a^{12} /times 1/a^{3} \times 1/a^{9} = 1
+a^{12}/( a^{3} \times a^{9} ) = a^{12}/a^{12} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12 - 3} /div a^{9} = a^{9} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = 1
+1
+a^{12} \div a^{3} \div a^{9} = a
+a^{12} \div a^{3} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{9} /div a^{9} = 1
+1
+a^{12} \div a^{3} \div a^{9} = 1
+a^{12} \div a^{3} = a^{9}  a^{9} \div a^{9} = 1
+a^{12} \div ( a^{3} \times a^{9} ) = a^{12} /div a^{12} = 1
+a^{12}/a^{3} \times 1/a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12 - 3 - 9} = 1
+a^{12} \div a^{3} \div a^{9} = a
+a^{12} \div a^{3} \div a^{9} = a^{12} /times 1/a^{3} \times 1/a^{9} = a^{12}/a^{12} = 1
+a^{12} \div a^{3} \div a^{9} = a^{9} /div a^{9} = a^{0} = 1
+a^{12} \div a^{3} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12}/( a \times a \times a \times a \times a \times a \times a \times a \times a \times a \times a \times a ) = 1
+a^{12} \div a^{3} \div a^{9} = 1a
+a^{12} \div a^{3} \div a^{9} = a
+a^{12} \div a^{3} \div a^{9} = a^{12 - 3 - 9} = a^{0} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12 - 3 - 9} = a^{0} = 1
+a^{12} \div a^{3} \div a^{9} = a^{24}
+a^{12} \div a^{3} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12 - 3 - 9} = 1
+a^{12} \div a^{3} \div a^{9} = a
+a^{12} \div a^{3} \div a^{9} = 1
+a^{9} \div a^{3} = a^{3} \div a^{12} = a^{4}
+a^{12} \div a^{3} \div a^{9} = 1
+a^{9} \div a^{9} = 1
+a^{12}/( a^{3} \times a^{9} ) = 1
+a^{12} \div a^{3} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12}/a^{3} \div a^{9} = a^{9} /div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = 1
+1
+a^{12} /times 1/a^{3} \times 1/a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12 - 3 - 9} = 1
+a^{12} \div a^{3} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12 - 3 - 9} = a^{0} = 1
+a^{12} \div a^{3} \div a^{9} = 1
+a^{9} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12} /times 1/a^{3} \times 1/a^{9} = 1
+a^{9} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a
+a^{12} \div a^{3} \div a^{9} = 1
+a^{9} \div a^{9} = 1
+a^{12} \div a^{3} = a^{9}  a^{9} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = 1
+a^{12 - 12} = 1
+
+a^{12} \div a^{3} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{9} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = 1
+1
+1
+a^{12} /times 1/a^{3} \times 1/a^{9} = a^{9} \times 1/a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = 0
+2^{3} \times a^{12} \\ 8 a^{12}
+a^{9} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = 1
+1
+1
+a^{12} \div a^{3} \div a^{9} = 1
+
+a^{12} /div a^{3} \div a^{9} = a^{9} \div a^{9} = 1
+1
+a^{12} /div a^{3} \div a^{9} = a^{9} \div a^{9} = 1
+a^{12} /div a^{3} \div a^{9} = a^{9} \div a^{9} = 1
+a^{12} /div a^{3} \div a^{9} = a^{9} \div a^{9} = 1
+a^{12} /div a^{3} \div a^{9} = a^{9} \div a^{9} = 1
+a^{12} /div a^{3} \div a^{9} = 1
+a^{12} /div a^{3} = a^{9} \div a^{9} = 1
+a^{12} \div a^{3} \div a^{9} = a^{12 - 3 - 9} = a^{0} = 1
+1

@@ -1,0 +1,8 @@
+torch
+torchmetrics
+sentencepiece
+transformers
+tokenizers
+pandas
+wandb
+numpy
