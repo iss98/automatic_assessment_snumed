@@ -33,7 +33,7 @@ def get_cfg():
     ) #적절한 vocab size 설정하기, 문제에 사용되는 토큰이 많지 않아 작게 설정하는 것을 추천
     parser.add_argument(
         "--emb", type = int, default = 16, help = "dimension of embedding"
-    ) #토큰들을 벡터로 만들어 줄때, 벡터의 차원 설정
+    ) #토큰들을 벡터로 만들어 줄때, 벡터의 차원 설정 att의 경우 hidden의 차원도 이걸로 통일
     parser.add_argument(
         "--hidden", type = int, default = 32, help = "dimension of main layer"
     ) #모델의 메인 layer의 차원 설정
@@ -84,12 +84,12 @@ def get_cfg():
         "--mt", type = float, default = 0.9, help = "momentum for SGD"
     )
     parser.add_argument(
-        "--epoch", type = str, default = 100, help = "number of epochs"
+        "--epoch", type = int, default = 100, help = "number of epochs"
     )
     parser.add_argument(
-        "--testevery", type = str, default = 10, help = "test period"
+        "--testevery", type = int, default = 10, help = "test period"
     )
     parser.add_argument(
-        "--bs", type = str, default = 16, help = "batch size"
+        "--bs", type = int, default = 16, help = "batch size"
     )
     return parser.parse_args()

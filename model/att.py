@@ -13,11 +13,10 @@ class ATTModel(nn.Module):
         self.out_dim = out_dim
         self.in_dim = cfg.vs
         self.emb_dim = cfg.emb
-        self.hidden_dim = cfg.hidden
         self.nh = cfg.nh
         self.device = cfg.device
         self.emb_layer = nn.Embedding(num_embeddings = self.in_dim, embedding_dim = self.emb_dim, padding_idx = 0)
-        self.att = nn.MultiheadAttention(embed_dim = self.hidden_dim, num_heads = self.nh, batch_first = True)
+        self.att = nn.MultiheadAttention(embed_dim = self.emb_dim, num_heads = self.nh, batch_first = True)
         self.classifier = nn.Linear(self.hidden_dim, self.out_dim)
         self.sigmoid = nn.Sigmoid()
 
