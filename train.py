@@ -113,6 +113,7 @@ if __name__ == "__main__":
                 wandb.run.summary["best_acc"] = np.mean(t_acc)
                 best_auc = np.mean(t_acc)
                 torch.save(model.cpu().state_dict(), fname)
+                model.to(cfg.device)
         
         #이번 epoch의 train data 넣어주기
         wandb.log({"loss": np.mean(loss_ep), "acc": np.mean(acc_ep), "ep": ep})
