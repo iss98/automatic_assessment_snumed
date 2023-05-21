@@ -36,7 +36,7 @@ class InfoResponseDataset(Dataset):
                 item_name = os.path.splitext(item_name)[0]
                 column_index = df.columns.get_loc("정오답") #각 문항마다 지식요소가 다르기 때문에
                 info = self.item_info[item_name]
-                for row in df:
+                for _, row in tqdm(df.iterrows()):
                     x = "문제 " + info + " 풀이 " + row[1]
                     token = self.tokenizer.tokenizer(x)
                     y = [int(row[column_index])]
@@ -49,7 +49,7 @@ class InfoResponseDataset(Dataset):
                 item_name = os.path.splitext(item_name)[0]
                 column_index = df.columns.get_loc("정오답") #각 문항마다 지식요소가 다르기 때문에 
                 info = self.item_info[item_name]
-                for row in df:
+                for _, row in tqdm(df.iterrows()):
                     x = "문제 " + info + " 풀이 " + row[1]
                     token = self.tokenizer.tokenizer(x)
                     y = [int(row[column_index])]
