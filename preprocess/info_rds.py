@@ -14,6 +14,7 @@ import torch
 from torch.utils.data import Dataset
 from pathlib import Path
 import os
+from data import item_dict
 
 class InfoResponseDataset(Dataset):
     def __init__(self, tokenizer, cfg):
@@ -53,10 +54,7 @@ class InfoResponseDataset(Dataset):
                 self.data.append((token.ids,y))
 
     def item_info_preprocess(self):
-        df = pd.read_csv("./data/info/info.csv")
-        self.item_info = {}
-        for row in df:
-            self.item_info[row[0]] = row[1]
+        self.item_info = item_dict
 
     def __len__(self):
         return len(self.data)
