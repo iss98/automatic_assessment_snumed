@@ -34,11 +34,12 @@ class InfoResponseDataset(Dataset):
                 df = df.dropna(subset = ["답안"])
                 item_name = os.path.basename(path) #문제의 질문 가지고오기
                 item_name = os.path.splitext(item_name)[0]
+                column_index = df.columns.get_loc("정오답") #각 문항마다 지식요소가 다르기 때문에
                 info = self.item_info[item_name]
                 for row in df:
                     x = "문제 " + info + " 풀이 " + row[1]
                     token = self.tokenizer.tokenizer(x)
-                    y = [int(row.loc["정오답"])]
+                    y = [int(row[column_index])]
                     self.data.append((token['input_ids'],y))
         elif cfg.tokenizer == "bw":
             for path in tqdm(self.path):
@@ -46,12 +47,13 @@ class InfoResponseDataset(Dataset):
                 df = df.dropna(subset = ["답안"])
                 item_name = os.path.basename(path) #문제의 질문 가지고오기
                 item_name = os.path.splitext(item_name)[0]
+                column_index = df.columns.get_loc("정오답") #각 문항마다 지식요소가 다르기 때문에 
                 info = self.item_info[item_name]
                 for row in df:
                     x = "문제 " + info + " 풀이 " + row[1]
-                token = self.tokenizer.tokenizer(x)
-                y = [int(row.loc["정오답"])]
-                self.data.append((token.ids,y))
+                    token = self.tokenizer.tokenizer(x)
+                    y = [int(row[column_index])]
+                    self.data.append((token.ids,y))
 
     def item_info_preprocess(self):
         self.item_info = item_dict
