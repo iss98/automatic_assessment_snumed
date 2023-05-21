@@ -1,0 +1,241 @@
+
+≥– = 48x^{3}y^{2} ( 2x^{2} ) ^{2} \times 1/2 \times A=48x^{3}y^{2} 4x^{4} \times 1/2\timesA = 48x^{3}y^{2} 2x^{4} \times A = 48x^{3}y^{2} A = 24y^{2}/x
+4x^{2} \times \square \times 1/2 = 48x^{3}y^{2} 4x^{2} \times \square = 96x^{6}y^{4} D = 96x^{6}y^{4}/4x^{2} D = 24x^{4}y^{4}
+πÿ∫Ø r r \times (2x)^2 \times 1/2 = r \times 4x^{2} \times 1/2 = r \times 2x^{2} = 48x^{3}y^{2} r = 48x^{3}y^{2}/2x^{2} = 24xy^{2} \therefore 24xy^{2}
+
+( ªÔ∞¢«¸¿« ≥–¿Ã ) = ( πÿ∫Ø ) \times ( ≥Ù¿Ã ) \times 1/2 ø° ¡÷æÓ¡¯ ¡∂∞« ( ≥Ù¿Ã )øÕ ( ≥–¿Ã ) ∏¶ ¥Î¿‘«œ∏È 48x^{3}y^{2} = ( πÿ∫Ø ) \times ( 2x )^{2} ¿Ãπ«∑Œ ( πÿ∫Ø ) = 48x^{3}y^{2} \div  ( 2x )^{2} =  48x^{3}y^{2} \div  4x^{2} = 48x^{3}y^{2}/4x^{2} = 12xy^{2} \therefore 12xy^{2}
+≥Ù¿Ã∞° ( 2x^{2} )^{2} ¿Œ ªÔ∞¢«¸¿« ≥–¿Ã∞° 48x^{3}y^{2}¿œ ∂ß ¿Ã ªÔ∞¢«¸¿« πÿ∫Ø
+≥Ù¿Ã = ( 2x )^{2} πÿ∫Ø = h ( 2x )^{2} \times h \times 1/2 = 48x^{3}y^{2} 4x^{2} \times h \times 1/2 = 48x^{3}y^{2} = 2x^{2} \times h = 28x^{3}y^{2} h = 24xy^{2} 24xy^{2}
+≥Ù¿Ã∞° ( 2x^{2} )^{2} ¿Œ ªÔ∞¢«¸¿« ≥–¿Ã∞° 48x^{3}y^{2}¿œ ∂ß ¿Ã ªÔ∞¢«¸¿« πÿ∫Ø
+96x^{3}y^{2} \div 4x^{2} = 24xy^{2}
+1/2 \times 4x^{2} \times r = 48x^{3}y^{2} 48x^{3}y^{2} \times 2 \times 1/4x^{2} = r r = 24xy^{2}
+( 2x )^{2} \times \square \times 1/2 = 48x^{3}y^{2} 4x^{2} \times \square \times 1/2 = 48x^{3}y^{2} 2x^{2} \times \square = 48x^{3}y^{2} \square = 48x^{3}y^{2} \div 2x^{2} \square = 24xy^{2}
+( 2x )^{2} \times \square \times 1/2 = 48x^{3}y^{2} 4x^{2} \times \square \times 1/2 = 48x^{3}y^{2} 2x^{2} \times \square = 48x^{3}y^{2} \square = 48x^{3}y^{2} \div 2x^{2} \square = 24xy^{2}
+48x^{3}y^{2} = 4x^{2} \times \square \times 1/2 48x^{3}y^{2}/2x^{2} = \square \square = 24xy^{2}
+ªÔ∞¢«¸ ∞¯Ωƒ πÿ \times ≥Ù \times 1/2 ( \square \times 4x^{2} ) \times 1/2 = 48x^{3}y^{2} \square \times 4x^{2} = 96x^{3}y^{2} 24xy^{2}
+πÿ∫Ø¿« ±Ê¿Ã∏¶ z∂Û «œ¿⁄ ( 4x^{2} \times z )/2 = 48x^{3}y^{2} 4x^{2} \times z = 96x^{3}y^{2} z = 96x^{3}y^{2}/4x^{2} z = 24xy^{2} \therefore 24xy^{2}
+ªÔ∞¢«¸¿« πÿ∫Ø¿« ±Ê¿Ã∏¶ a∂Û «“ ∂ß ( 2x )^{2} \times a \times 1/2 = 48x^{3}y^{2} 4x^{2} \times a \times 1/2 = 48x^{3}y^{2} 2x^{2} \times a = 48x^{3}y^{2} a =24xy^{2}
+
+
+
+≥Ù¿Ã ( 2x )^{2} = 4x^{2} πÿ∫Ø \times ≥Ù¿Ã = 48x^{3}y^{2} \times 2 = 96x^{3}y^{2} πÿ∫Ø¿« ±Ê¿Ã = 96x^{3}y^{2} \div 4x^{2} = 24xy^{2} ¥‰ 24xy^{2}
+ªÔ∞¢«¸ ≥–¿Ã ±∏«œ¥¬ ∞¯Ωƒ = πÿ∫Ø \times ≥Ù¿Ã  \div 2 \square \times 4x^{2} \div 2 = 48x^{3}y^{2} \square \times 2x^{2} =  48x^{3}y^{2} 48x^{3}y^{2} \times 1/2x^{2} = 24xy^{2}
+( 2x )^{2} \times ( πÿ∫Ø¿« ±Ê¿Ã ) \times 1/2 = 48x^{3}y^{2} 4x^{2} \times 1/2  \times ( πÿ∫Ø¿« ±Ê¿Ã ) = 48x^{3}y^{2} 2x^{2} \times ( πÿ∫Ø¿« ±Ê¿Ã ) = 48x^{3}y^{2} ( πÿ∫Ø¿« ±Ê¿Ã ) = 48x^{3}y^{2} \times 1/2x^{2} = 24xy^{2}
+48x^{3}y^{2} \div 4x^{2} = 12xy^{2} 12xy^{2} \div 2 = 12xy^{2}/2 = 6xy^{2}
+48x^{3}y^{2} \div 4x^{2} \times 2 = 48x^{3}y^{2} \times 1/4x^{2} \times 2 = 24xy^{2}
+
+
+1/2 \times \square \times 4x^{2}  = 48x^{3}y^{2} \square \times 2x^{2}  = 48x^{3}y^{2} \square = 24xy^{2}
+ªÔ∞¢«¸¿« ≥–¿Ã¥¬ πÿ∫Ø¿« ±Ê¿Ã \times ≥Ù¿Ã ¿Ãπ«∑Œ Ωƒ πÿ∫Ø¿« ±Ê¿Ã = \square /  \square \times ( 2x )^{2} = 48x^{3}y^{2} \square \times 4x^{2} = 48x^{3}y^{2} \square = 48x^{3}y^{2}/4x^{2} ∫∞ = 12xy^{2} 12xy^{2}
+( 2x )^{2} \times A \times 1/2 A = 24x^{3}y^{4}
+ªÔ∞¢«¸¿« ≥–¿Ã πÿ∫Ø \times ≥Ù¿Ã \times 1/2 µ˚∂Ûº≠ 4x^{2} \times 1/2 \times \square = 48x^{3}y^{2} \square = 24xy^{2}
+\square \times 4x^{2} \times 1/2 = 48x^{3}y^{2} \square = 48x^{3}y^{2} \times 1/4x^{2} = \times 2 = 12xy^{2} \times 2 = 24xy^{2} \therefore 24xy^{2}
+
+48x^{3}y^{2} \div ( 2x )^{2} = 48x^{3}y^{2} \times 1/4x = 1/4x \times 48x^{3} \times y^{2} = 1/12x^{4} \times y^{2} = 6x^{4}y
+
+\square \times ( 2x )^{2} \div 2 = 48x^{3}y^{2} 48x^{3}y^{2} \times 2 = 96x^{3}y^{2} 96x^{3}y^{2} \times 1/4x^{2} = 24xy^{2}
+( 2x )^{2} = 4x^{2} \square = πÿ∫Ø¿« ±Ê¿Ã 1/2 ( 4x^{2} \times \square ) = 48x^{3}y^{2} = 2x^{2} \times 1/2 \square = 48x^{3}y^{2} 1/2 \square = 24xy^{2} \square = 48xy^{2}
+
+
+≥Ù¿Ã 4x^{2} 4x^{2} \times \square = 96x^{3}y^{2} \square = 24xy^{2} πÿ∫Ø 24xy^{2}
+ªÔ∞¢«¸¿« ≥–¿Ã¥¬ ( πÿ∫Ø ) \times ( ≥Ù¿Ã ) \div 2 ¿Ãπ«∑Œ ≥–¿Ã∞° 48x^{3}y^{2}¿œ ∂ß ( πÿ∫Ø ) \times ( ≥Ù¿Ã )  ¥¬ 96x^{3}y^{2} ¿Ã µ«æÓæﬂ «—¥Ÿ  ≥Ù¿Ã∞° ( 2x )^{2} ¿Œ 4x^{2} ¿Ãπ«∑Œ ( πÿ∫Ø ) \times 4x^{2} = 96x^{3}y^{2} ( πÿ∫Ø )= 96x^{3}y^{2}/4x^{2} = 24xy^{2} \therefore 24xy^{2}
+a \times 4x^{2} = 96x^{3}y^{2} 96x^{3}y^{2}/4x^{2} = 24xy^{2} a = 24xy^{2} ¥‰ 24xy^{2}
+4x^{2}  \times 1/2 \times A = 48x^{3}y^{2} 2x^{2}\times A = 48x^{3}y^{2} 48x^{3}y^{2} \times 1/2x^{2} = 24xy^{2} \therefore A = 24xy^{2}
+12x^{2}y^{2}
+4x^{2} \times 1/2 = 2x^{2} \times \square = 48x^{3}y^{2} \square = 48x^{3}y^{2}/2x^{2} = 24xy^{2}
+πÿ∫Ø A A \times ( 2x )^{2} \div 2 = 48x^{3}y^{2} A \times 4x^{2} = 96x^{3}y^{2} A = 24xy^{2} 24xy^{2}
+4x^{2} \times A \times \div 2 = 48x^{3}y^{2} 4x^{2} \times A = 96x^{6}y^{4} A = 24x^{4}y^{4}
+ªÔ∞¢«¸¿« ≥–¿Ã = πÿ∫Ø \times ≥Ù¿Ã \div 2 πÿ∫Ø¿ª A∂Û «œ∏È ( A \times 4x^{2} )/2 = 48x^{3}y^{2} A \times 4x^{2} = 96x^{3}y^{2} A = 24xy^{2}
+48x^{3}y^{2} \times 1/4x^{2} \times 2 = 24xy^{2}
+48x^{3}y^{2} \times 2 \div ( 2x )^{2} 96x^{3}y^{2}\times 1/4x^{2} = 24xy^{2}
+
+( 2x )^{2} = 4x^{2} πÿ∫Ø¿ª \square∂Û∞Ì «œ∏È  \square \times 4x^{2} \times 1/2 = 48x^{3}y^{2} 2x^{2} \times \square = 48x^{3}y^{2} \square = 48x^{3}y^{2}/2x^{2} \square = 24xy^{2} ¥‰  24xy^{2}
+\square = πÿ∫Ø \square \times 4x^{2} = 48x^{3}y^{2} ø° \times 2/4x^{2} ∏¶ «œ∞Ì ∞ËªÍ«œ∏È  \square = 12xy^{2}
+4x^{2} \times \square = 48x^{3}y^{2} 48x^{3}y^{2} \times 1/4x^{2} = 12xy 12xy
+πÿ \times ≥Ù \times 1/2 πÿ \times 4x^{2} \times 1/2 = 48x^{3}y^{2} πÿ \times 2x^{2} = 48x^{3}y^{2}  πÿ = 24xy^{2} \therefore 24xy^{2}
+96x^{3}y^{2} \div 4x^{2} = 24xy^{2} ¥‰ 24xy^{2}
+
+( 2x )^{2} = 4x^{2} πÿ∫Ø¿« ±Ê¿Ã = \square 4x^{2} \times \square \times 1/2 = 48x^{3}y^{2} 2x^{2} \times \square = 48x^{3}y^{2} \square = ( 48x^{3}y^{2} ) \div ( 2x^{2} ) = 48x^{3}y^{2}/2x^{2} = 24xy^{2} \square = 24xy^{2} πÿ∫Ø = 24xy^{2} ¥‰ 24xy^{2}
+( 2x )^{2} \times \square \times 1/2 = 48x^{3}y^{2} 4x^{2} \times \square \times 1/2 = 48x^{3}y^{2} 2x^{2} \times \square = 48x^{3}y^{2} \square = 24xy^{2} ¥‰ 24xy^{2}
+12xy^{2} 48x^{3}y^{2} \div 4x^{2}
+4x^{2} \times 1/2 \times \square = 48x^{3}y^{2} 2x^{2} \times \square = 48x^{3}y^{2} 24xy^{2} πÿ∫Ø¿« ±Ê¿Ã 24xy^{2}
+( 2x )^{2} = 2^{2} \times x^{2} 12xy^{2} 48x^{3}y^{2}/4x^{2} 24xy^{2}
+24xy^{2} 96 24
+48x^{3}y^{2} \div 4x^{2} \times 2 = 48x^{3}y^{2} \times 1/4x^{2} \times 2 = 24xy^{2}
+ªÔ∞¢«¸¿« ≥Ù¿Ã¥¬ ( 2x )^{2} ¿Ã±‚ ∂ßπÆø° 4x^{2} ¿Ã¥Ÿ ªÔ∞¢«¸¿« ≥–¿Ã∏¶ ±∏«œ¥¬ Ωƒ¿∫ 4x^{2} \times \square \div 2 = 48x^{3}y^{2} \square = 24xy^{2} ¿Ã¥Ÿ µ˚∂Ûº≠ ªÔ∞¢«¸¿« πÿ∫Ø¿« ±Ê¿Ã¥¬ 24xy^{2} cm ¿Ã¥Ÿ
+( 2x )^{2} \times 48x^{3}y^{2} = 4x^{2} \times 48x^{3}y^{2} = 192x^{5}y^{2}
+
+4x^{2} \times \square = ( 48x^{3}y^{2} )^{2} = 4x^{2} \times \square = 96x^{6}y^{4}
+
+
+
+4x^{2}A/2 = 48x^{3}y^{2} 2x^{2}A = 48x^{3}y^{2} = 24xy^{2}
+≥Ù¿Ã∞° ( 2x )^{2} ¿Œ ªÔ∞¢«¸¿« ≥–¿Ã∞° 48x^{3}y^{2} ¿œ ∂ß ¿Ã ªÔ∞¢«¸¿« πÿ∫Ø¿« ±Ê¿Ã∏¶ ±∏«œΩ√ø¿
+πÿ∫Ø A  1/2 \times ( 2x )^{2} \times A = 48x^{3}y^{2} 1/2 \times 4x^{2} \times A = 2Ax^{2} 2Ax^{2} = 48x^{3}y^{2} A = 24xy^{2}
+48x^{3}y^{2} = 2x^{2} \times \square \square = 24xy^{2}
+48x^{3}y^{2} \times 2 = 96x^{3}y^{2} 96x^{3}y^{2} \times 1/4x^{2} = 24xy^{2}
+ªÔ∞¢«¸¿« ≥Ù¿Ã¥¬ ( 2x )^{2} ¿Ã±‚ ∂ßπÆø° 4x^{2} ¿Ã¥Ÿ ªÔ∞¢«¸¿« ≥–¿Ã∏¶ ±∏«œ¥¬ Ωƒ¿∫ 4x^{2} \times \square \div 2 = 48x^{3}y^{2} \square = 24xy^{2} ¿Ã¥Ÿ µ˚∂Ûº≠ ªÔ∞¢«¸¿« πÿ∫Ø¿« ±Ê¿Ã¥¬ 24xy^{2} cm ¿Ã¥Ÿ
+1/2 \times ( 2x )^{2} \times \square= 48x^{3}y^{2} x^{2} \times \square = 48x^{3}y^{2} \square = 48x^{3}y^{2} \times 1/x \square = 48xy^{2}
+( 2x )^{2} = 4x^{2} 4x^{2} \times h \times 1/2 = 8x^{3}y^{2} 2x^{2}h =  8x^{3}y^{2} h = 4y^{3} ¥‰ 4y^{3}
+2 ( 48x^{3}y^{2} ) \div 4x^{2} = 96x^{3}y^{2} \div 4x^{2} = 24xy^{2}
+
+( 2x )^{2} = 4x^{2} 1/2 \times 4x^{2} \times \square = 48x^{3}y^{2} 2x^{2} \times \square = 48x^{3}y^{2} \square = 48x^{3}y^{2} \div 2x^{2} \square = 24xy^{2} 24xy^{2}
+24xy^{2}
+( 2x )^{2} \times L = 48x^{3}y^{2} 4x^{2} \times L = 48x^{3}y^{2} L = 48x^{3}y^{2} \times 1/4x^{2} = 12xy^{2} \therefore πÿ∫Ø = 12xy^{2}
+\square \times ( 2x )^{2} /2 = 48x^{3}y^{2} \square \times ( 2x )^{2} = 96x^{3}y^{2} \square = 96x^{3}y^{2}/4x^{2} \square = 24xy^{2} ¥‰ 24xy^{2}
+≥Ù¿Ã 4x^{2} ≥–¿Ã48x^{3}y^{2} 48x^{3}y^{2} \times 2 = 96x^{3}y^{2} 96x^{3}y^{2} \div 4x^{2} = 96x^{3}y^{2}/4x^{2} πÿ∫Ø 24xy^{2}
+48x^{3}y^{2} \times 2 = 96x^{3}y^{2} ( 2x )^{2} = 4x^{2} 96x^{3}y^{2} \div 4x^{2} = 24xy^{2} 24xy^{2}
+\square \times 4x^{2} \div 2 = 48x^{3}y^{2} 2x^{2} \times \square = 48x^{3}y^{2} \square = 48x^{3}y^{2}/2x^{2} 24xy^{2}
+
+1/2 ( ( 2x )^{2} \times \square ) = 48x^{3}y^{2} =  1/2 ( 4x^{2} \times \square ) = 48x^{3}y^{2} = 2x^{2} \times 1/2 \square = 48x^{3}y^{2} x^{2} \times \square = 48x^{3}y^{2} \square = 48xy^{2}
+
+h = 4x^{2} S = 48x^{3}y^{2} m \times 4x^{2} \times 1/2 = 48x^{3}y^{2} 24xy^{2}
+4x^{2} = ≥Ù¿Ã 4x^{2} \times 1/2 \times \square = 48x^{3}y^{2} 2x^{2} \times \square = 48x^{3}y^{2} \square = 48x^{3}y^{2} \div 2x^{2} \square = 24xy^{2}
+( ªÔ∞¢«¸¿« ≥–¿Ã ) = ( πÿ∫Ø ) \times ( ≥Ù¿Ã ) \times 1/2  48x^{3}y^{2} =  ( πÿ∫Ø ) \times ( 2x )^{2} \times 1/2 48x^{3}y^{2} =  ( πÿ∫Ø ) \times 4x^{2}/2 ( πÿ∫Ø ) = 48x^{3}y^{2} \div 2x^{2} 48x^{3}y^{2}/2x^{2} = 24xy^{2} 24xy^{2}
+ªÔ∞¢«¸¿« ≥–¿Ã∏¶ ±∏«—¥Ÿ \square \times 4x^{2} \times 1/2 = 48x^{3}y^{2} ¥‰ 24xy^{2}
+A \times 4x^{2} /2 = A \times 2x^{2} = 48x^{3}y^{2} = A = 48x^{3}y^{2}/2x^{2} = 24y^{2}
+
+( 2x )^{2} = 4x^{2} ≥–¿Ã πÿ∫Ø \times ≥Ù¿Ã 48x^{3}y^{2} \div 4x^{2} = 48x^{3}y^{2}/4x^{2} = 12xy^{2} \therefore 12xy^{2}
+
+4x^{2} \times h \times 1/2 = 48x^{3}y^{2} 1/2 h = 12xy^{2} h= 24xy^{2} \therefore 24xy^{2}
+4x^{2} \times h \times 1/2 = 48x^{3}y^{2} 2x^{2} \times h 24xy^{2}
+1/2 \times ( 2x )^{2} \times ( πÿ∫Ø ) = 48x^{3}y^{2} 1/2 \times 4x^{2} \times πÿ∫Ø = 48x^{3}y^{2} πÿ∫Ø = 48x^{3}y^{2} \times 1/2x^{2} = 24xy^{2} \therefore 24xy^{2}
+4x^{2} \times 1/2 48x^{3}y^{2} 6xy^{2}
+( πÿ∫Ø¿« ±Ê¿Ã ) = A A \times ( 2x )^{2} \times 1/2 = 48x^{3}y^{2} A \times 2x^{2} = 48x^{3}y^{2} A = 48x^{3}y^{2}\times 1/2x^{2} A = 24xy^{2} \therefore 24xy^{2}
+( πÿ∫Ø ) \times ( 2x )^{2}= 48x^{3}y^{2} ( πÿ∫Ø ) = 12xy^{2} \therefore 12xy^{2}
+( 2x )^{2} 48x^{2}y^{2} = 8 \therefore 8
+xy^{2}
+24xy^{2}
+( 2x )^{2} \times \square  = 96x^{3}y^{2} \square = 24xy^{2}
+48x^{3}y^{2} \div ( 2x )^{2} = 48x^{3}y^{2} \div 4x^{2} = 12xy^{2} 12xy^{2}
+ªÔ∞¢«¸¿« πÿ∫Ø¿« ±Ê¿Ã∏¶ a∂Û∞Ì «—¥Ÿ ( ªÔ∞¢«¸¿« ≥–¿Ã ) = (πÿ∫Ø¿« ±Ê¿Ã ) \times ( ≥Ù¿Ã ) \times 1/2 ¿Ãπ«∑Œ 48x^{3}y^{2} = a \times ( 2x )^{2} \times 1/2 = a \times 4x^{2} \times 1/2 = a \times 2x^{2} a = 48x^{3}y^{2} \div 2x^{2} = 48x^{3}y^{2} \times 1/2x^{2} = 24xy^{2} \therefore 24xy^{2}
+
+96x^{3}y^{2} = 2x^{2} \times \square \square = 96x^{3}y^{2}/2x^{2} = 48xy^{2} \therefore 48xy^{2}
+πÿ∫Ø 48x^{3}y^{2} \times 2 \times 1/( 2x )^{2} = 96x^{3}y^{2} \times 1/4x^{2} = 24xy^{2} \therefore 24xy^{2}
+ªÔ∞¢«¸¿« ≥–¿Ã = ≥Ù¿Ã \times πÿ∫Ø \times 1/2 ( 2x )^{2} =  ≥Ù¿Ã 96x^{3}y^{2}/≥Ù¿Ã = πÿ∫Ø 96x^{3}y^{2}/4x^{2} = 24xy^{2} \therefore 24xy^{2}
+4x^{2} \times \square = 48x^{3}y^{2} \square = 12xy^{2}
+
+\square \times 4x^{2} \times 1/2 = 48x^{3}y^{2} \square = 24xy^{2}
+\square \times 4x^{2} = 96x^{3}y^{2} \square = 24xy^{2} \therefore 24xy^{2}
+4x^{2} = ( 2x )^{2} πÿ \times ≥Ù \times 1/2 = ≥– πÿ \times ≥Ù = 96x^{3}y^{2} 96x^{3}y^{2}/1 \times 1/4x^{2} = 24xy^{2} \therefore 24xy^{2}
+4x^{2} \times \square \times 1/2 = 48x^{3}y^{2} \square = 24xy^{2} \therefore \square = 24xy^{2}
+( 2x )^{2} \times h = 48x^{3}y^{2} \times 2 A = 24xy^{2} \therfore 24xy^{2}
+
+A \times ( 2x )^{2} \times 1/2 = 48x^{3}y^{2} A = 24xy^{2} \therefore  24xy^{2}
+48x^{3}y^{2} \times 2 \div ( 2x )^{2} = 96x^{3}y^{2} \times 1/4x^{2} = 24xy^{2} ¥‰ 24xy^{2}
+4x^{2} \times ≥Ù = 24x^{3}y^{2} ≥Ù¿Ã 6xy^{2}
+4x^{2} ¥‰ 24xy^{2}
+
+\square \times 4x^{2} \times 1/2 = 48x^{3}y^{2} 4x^{2} = 96x^{3}y^{2} 24y^{3}
+48x^{3}y^{2} \div 4x^{2} \times 2 = 24xy^{2} 24xy^{2}
+24xy^{2}
+πÿ∫Ø \times 4x^{2} \times 1/2 = 48x^{3}y πÿ∫Ø \times 2x^{2} = 48x^{3}y πÿ∫Ø = 24xy \therefore  24xy
+24xy^{2}
+96x^{3}y^{2} \times 1/4x^{2} = 24xy^{2} 24xy^{2}
+24x
+
+\square \times 4x^{2} = 96x^{3}y^{2} \square = 14xy^{2}
+4x^{2} \times A= 48x^{3}y^{2} A = 12xy^{2}
+ªÔ∞¢«¸¿« ≥–¿Ã = ( πÿ∫Ø ) \times ( ≥Ù¿Ã ) \times 1/2 48x^{3}y^{2} = ( πÿ∫Ø ) \times 4x^{2} \times 1/2 =  48x^{3}y^{2} \div 2x^{2} = πÿ∫Ø ¥‰ 24xy^{2}
+πÿ∫Ø = a a \times 4x^{2} \times 1/2 = 48x^{3}y^{2} a = 24xy^{2}
+4x^{2} \times 1/2 \times πÿ = 48x^{3}y^{2} πÿ∫Ø = 48x^{3}y^{2} \times 2 /4x^{2} = 24xy^{2}
+1/2 \times m \times ( 2x )^{2} = 2x^{2}m = 48x^{3}y^{2} m = 24xy^{2}  24xy^{2}
+
+4x^{2} \times πÿ = 48x^{3}y^{2} πÿ∫Ø = 12xy^{2}
+96x^{3}y^{2} \div 4x^{2} = 24xy^{2} \therefore 24xy^{2}
+4x^{2} \times 1/2 \times h = 48x^{3}y^{2} 2x^{2} \times h = 48x^{3}y^{2} h = 24xy^{2}
+
+1/2 ( 4x^{2} \times \square ) = 48x^{3}y^{2} 24xy^{2}
+48x^{3}y^{2} = 96x^{3}y^{2}/4x^{2} 24xy^{2}
+24xy^{2}
+\square = 48x^{3}y^{2} \\ ( 4x^{2} \times \square ) \times 1/2 = 48x^{3}y^{2} 2x^{2} \times \square = 48x^{3}y^{2} 48xy^{2}
+1/2 \times 4x^{2} \times \square = 48x^{3}y^{2} \square = 24xy^{2} πÿ∫Ø = 24xy^{2}
+4x^{2} \times πÿ∫Ø \times 1/2 = 48x^{3}y^{2} πÿ∫Ø = 24xy^{2} 24xy^{2} \therefore 24xy^{2}
+( 2x )^{2} = 4x^{2} πÿ∫Ø¿ª A∂Û «œ¿⁄ 4x^{2} \times A \times 1/2 = 48x^{3}y^{2} 2x^{2} \times A = 48x^{3}y^{2} \therefore A = 24xy^{2}
+4x^{2} \times \square \times 1/2 = 48x^{3}y^{2} 48x^{3}y^{2} \times 1/2x^{2} = 24xy^{2} \square = 24xy^{2}
+24xy^{2}
+4x^{2} \times \square \times 1/2 = 48x^{3}y^{2} \square = 24xy^{2}
+4x^{2} \times ( πÿ∫Ø¿« ±Ê¿Ã ) \times 1/2 = 48x^{3}y^{2} 2x^{2} \times ( πÿ∫Ø¿« ±Ê¿Ã ) = 48x^{3}y^{2} ( πÿ∫Ø¿« ±Ê¿Ã ) = 24xy^{2}
+( 2x )^{2} = 4x^{2} 48x^{3}y^{2} = 4x^{2} \times ≥Ù \times 1/2 \therefore 24xy^{2}
+96x^{3}y^{2} \div 4x^{2} = 24xy^{2} \therefore 24xy^{2}
+A \times 4x^{2} / 2  = 48x^{3}y^{2} \times 2 =  96x^{3}y^{2} \therefore A \times 4x^{2} = 96x^{3}y^{2} A = 24xy^{2}
+( 2x )^{2} = 4x^{2} ( ≥Ù¿Ã ) ªÔ∞¢«¸¿« ≥–¿Ã = 48x^{3}y^{2} 4x^{2} \times \square / 2 = 48x^{3}y^{2} 96x^{3}y^{2} \therefore \square = 24xy^{2} πÿ∫Ø¿« ≥–¿Ã = 24xy^{2}
+48x^{3}y^{2} \times 2 / 4x^{2} = 24xy^{2}
+96x^{3}y^{2}/4x^{2} = 24xy^{2}
+2xy^{2}
+96x^{3}y^{2} = 4x^{2} \times \square \square = 24xy^{2} \therefore 24xy^{2}
+( 2x )^{2} \times 1/2 \times r = 48x^{3}y^{2} 4x^{2} \times 1/2 \times r = 48x^{3}y^{2} 2x^{2} \times r = 48x^{3}y^{2} r = 24y^{2}/x
+24xy^{2}
+≥Ù¿Ã ( 2x )^{2} = 4x^{2} πÿ∫Ø 48x^{3}y^{2} \times 2 \div 4x^{2}  96x^{3}y^{2} \div 4x^{2} = 24xy^{2} \therefore 24xy^{2}
+48x^{3}y^{2} \times 2 \div 4x^{2} 24xy^{2}
+4x^{2} \times \square \times 1/2 = 48x^{3}y^{2} 2x^{2} \times \square = 48x^{3}y^{2} \square = 24xy^{2} \therefore 24xy^{2}
+24xy^{2} 48x^{3}y^{2} \times 2 \div 4x^{2}
+ªÔ∞¢«¸¿« πÿ∫Ø¿« ±Ê¿Ã = A∂Û «œ¿⁄ A \times ( 2x )^{2} \times 1/2 = 48x^{3}y^{2} A \times 4x^{2} \times 1/2 = 48x^{3}y^{2} 2x^{2} \times A = 48x^{3}y^{2} A = 48x^{3}y^{2}/2x^{2} = 24xy^{2} \therefore 24xy^{2}
+4x^{2} \times \square \times 1/2 = 48x^{3}y^{2} \div 4x^{2} \times 2 12xy^{2} \times 2 = 24xy^{2}
+( 2x )^{2} \times h \times 1/2 = 48x^{3}y^{2} h = 24xy^{2} \therefore 24xy^{2}
+≥Ù¿Ã∞° ( 2x )^{2} ¿Œ ªÔ∞¢«¸¿« ≥–¿Ã∞° 48x^{3}y^{2} ¿Ã ¿Ã ªÔ∞¢«¸¿« πÿ∫Ø¿« ±Ê¿Ã h ¿Ã∏È h \times 4x^{2} \times 1/2 = 48x^{3}y^{2} h \times 2x^{2} = 48x^{3}y^{2} h = 24xy^{2}
+πÿ∫Ø \times ( 2x )^{2} \times 1/2 = 48x^{3}y^{2} ( πÿ∫Ø ) \times 2x^{2} = 48x^{3}y^{2} ( πÿ∫Ø ) = 24xy^{2}
+h = 4x^{2} πÿ∫Ø¿« ±Ê¿Ã∞° \square ∂Û∏È  1/2 \times \square \times 4x^{2} = 48x^{3}y^{2} \square \times 2x^{2} = 48x^{3}y^{2} \square = 24xy^{2} \therefore 24xy^{2}
+
+48x^{3}y^{2} \times 2 = 96x^{3}y^{2} \times 1/4x^{2} 24xy^{2}
+4x^{2} \times h \times 1/2 = 48x^{3}y^{2} h = 24xy^{2}
+≥Ù¿Ã 4x^{2} 96x^{3}y^{2} \div 4x^{2} = 24xy^{2} ¥‰ 24xy^{2}
+≥Ù¿Ã∞° ( 2x )^{2} ¿Œ ªÔ∞¢«¸¿« ≥–¿Ã∞° 48x^{3}y^{2}¿œ ∂ß ¿Ã ªÔ∞¢«¸¿« πÿ∫Ø¿« ±Ê¿Ã∏¶ ±∏«œΩ√ø¿
+4x^{2} \times \square = 96x^{3}y^{2} \square = 24xy^{2}
+( πÿ∫Ø ) = a 4x^{2} \times a \times 1/2 = 48x^{3}y^{2} a = 24xy^{2} \therefore 24xy^{2}
+x \times ( 2x )^{2} = 48x^{3}y^{2} x \times 4x^{2} = 48x^{3}y^{2} 48x^{3}y^{2} \times 1/4x^{2} = 12xy^{2} πÿ∫Ø 12xy^{2}
+4x^{2} 96x^{3}y^{2} 24xy^{2}
+
+24xy^{2}
+πÿ∫Ø a 4x^{2} \times a = 96x^{3}y^{2} \therefore 24xy^{2}
+4x^{2} \times ( πÿ∫Ø ) \times 1/2 = 48x^{3}y^{2} ( πÿ∫Ø ) = 24xy^{2} \therefore 24xy^{2}
+\square \times 4x^{2} \times 1/2 = 48x^{3}y^{2} \square = 24xy^{2}
+48x^{3}y^{2} \times 2 \div ( 2x )^{2} = 96x^{3}y^{2} \div 4x^{2} = 24xy^{2}
+24x^{3}y^{2} \div 4x^{2} = 6xy^{2}
+4x^{2} \times 1/2 \times πÿ∫Ø = 48x^{3}y^{2} πÿ∫Ø = 48x^{3}y^{2} \times 1/4x^{2} \times 2 = 24xy^{2}
+4x^{2} \times ≥Ù¿Ã \times 1/2 = 48x^{3}y^{2} 2x^{2} \times ≥Ù¿Ã = 48x^{3}y^{2} ≥Ù¿Ã = 24xy^{2} \therefore 24xy^{2}
+\square \times 4x^{2} = 96x^{3}y^{2} \square = 24xy^{2}
+( 2x )^{2} = 4x^{2} 48x^{3}y^{2} \times 1/4x^{2} = 12xy^{2} 12xy^{2}
+48x^{3}y^{2} \square \times 4x^{2} \times 1/2 = 48x^{3}y^{2} 2 \square x^{2} = 48x^{3}y^{2} \square = 24xy^{2} ¥‰ 24xy^{2}
+( 2x )^{2} \times \square \times 1/2 = 48x^{3}y^{2} 4x^{2} \times \square \times 1/2 = 48x^{3}y^{2} \square = 48x^{3}y^{2}/2x^{2} = 24xy^{2}
+ªÔ∞¢«¸¿« πÿ∫Ø¿ª A∂Û∞Ì «ﬂ¿ª ∂ß A \times ( 2x )^{2} \times 1/2 = 48x^{3}y^{2} A \times 4x^{2} \times 1/2 = 48x^{3}y^{2} A = 24xy^{2}
+( 2x )^{2} \times \square \times 1/2 = 48x^{3}y^{2} 4x^{2} \times \square = 96x^{3}y^{2} \square = 96x^{3}y^{2}/4x^{2} = 24xy^{2} \therefore 24xy^{2}
+4x^{2} \times \square \times 1/2 = 48x^{3}y^{2} = 24xy^{2} \therefore 24xy^{2}
+\square \times 4x^{2} \times 1/2 = 48x^{3}y^{2} = 28xy^{2}
+24xy^{2}
+96x^{3}y^{2} \div ( 2x )^{2} = 24xy^{2} 24xy^{2}
+
+( 2x )^{2} \times \square \div 2 = 48x^{3}y^{2} 4x^{2} \times \square = 96x^{3}y^{2} \square = 24xy^{2} \therefore 24xy^{2}
+1/2 \times πÿ∫Ø \times ( 2x )^{2} = 48x^{3}y^{2} \square = 48x^{3}y^{2} \div 2x^{2} = 24xy^{2}
+( πÿ∫Ø¿« ≥–¿Ã ) \times 4x^{2} \times 1/2 = 48x^{3}y^{2} ( πÿ∫Ø¿« ≥–¿Ã ) \times 2x^{2} = 48x^{3}y^{2}  ( πÿ∫Ø¿« ≥–¿Ã ) = 48x^{3}y^{2} \times 1/2x^{2} = 24xy^{2}
+4x^{2} \times h \times 1/2 = 48x^{3}y^{2} 2x^{2}h = 48x^{3}y^{2} h = 24xy^{2}
+( 2x )^{2} = 4x^{2} 4x^{2} \times h \times 1/2 = 48x^{3}y^{2} 4x^{2} \times h = 96x^{3}y^{2} = 24xy^{2}
+96x^{3}y^{2} = 4x^{2} \times a \therefore a = 24xy^{2}
+4x^{2} \times h \times 1/2 = 48x^{3}y^{2} 2x^{2} \times h = 48x^{3}y^{2} h = 48x^{3}y^{2}/2x^{2} = 24xy^{2} \therefore  24xy^{2}
+24xy^{2}
+
+( 2x )^{2} \times πÿ∏È \times 1/2 = 48x^{3}y^{2} 2x^{2} \times πÿ∏È = 48x^{3}y^{2} πÿ∏È = 24xy^{2}
+≥Ù¿Ã∏¶ \square∂Û∞Ì «œ∏È 4x^{2} \times \square \times 1/2 = 48x^{3}y^{2} 2x^{2} \times \square = 48x^{3}y^{2} \square = 24xy^{2} ¥‰ 24xy^{2}
+4x^{2} \times \square = 96x^{3}y^{2} \square = 24xy^{2} \therefore 24xy^{2}
+h = 4x^{2} 4x^{2} \times 1/2 \times ( πÿ∫Ø ) = 48x^{3}y^{2} ¥‰ 24xy^{2}
+96x^{3}y^{2} \div 4x^{2} = 19xy^{2} 19xy^{2}
+( πÿ∏È ) = a a \times 4x^{2} \times 1/2 = 48x^{3}y^{2} 2ax^{2} = 48x^{3}y^{2} a = 24xy^{2} \therefore 24xy^{2}
+4x^{2} 4x^{2} \times h = 96x^{3}y^{2} h = 24xy^{2} ¥‰ 24xy^{2}
+4x^{2} \times \square \times 1/2 = 48x^{3}y^{2} \square = 12xy^{2} ¥‰ 12xy^{2}
+1/2 \times 4x^{2} \times \square = 48x^{3}y^{2} 2x^{2} \times \square = 48x^{3}y^{2} \square = 24xy^{2} ¥‰ 24xy^{2}
+πÿ∫Ø¿« ±Ê¿Ã \square \square = 96x^{3}y^{2}/4x^{2} = 24xy^{2} ¥‰ 24xy^{2}
+4x^{2} \times 1/2  \times A = 48x^{3}y^{2} A = 24xy^{2}
+( 2x )^{2} \times \square = 96x^{3}y^{2} \therefore \square = 24xy^{2}
+4x^{2} \times 1/2 \times h = 48x^{3}y^{2} \therefore 24xy^{2} ¥‰ 24xy^{2}
+1/2 \times 4x^{2} \times \square = 48x^{3}y^{2} \square = 24xy^{2}
+
+2x^{2} \times A = 48x^{3}y^{2} A = 24xy^{2} \therefore 24xy^{2}
+
+( 2x )^{2} \times \square \times 1/2 = 48x^{3}y^{2} \square = 48x^{3}y^{2} \div 2x^{2} = 24xy^{2} ¥‰ 24xy^{2}
+( 2x )^{2} \times ( πÿ∫Ø¿« ±Ê¿Ã ) \times 1/2 = 48x^{3}y^{2} 4x^{2} \times ( πÿ∫Ø¿« ±Ê¿Ã )  = 56x^{3}y^{2} ( πÿ∫Ø¿« ±Ê¿Ã )  = 14xy^{2} ¥‰ 14xy^{2}
+2x^{2} \times πÿ∫Ø \times 1/2 = 48x^{3}y^{2} x^{2} \times πÿ∫Ø = 48x^{3}y^{2} πÿ∫Ø = 48xy^{2} \therefore 48xy^{2}
+πÿ∫Ø¿« ±Ê¿Ã∏¶ A∂Û∞Ì «œ∏È A \times ( 2x )^{2} \times 1/2 = 48x^{3}y^{2} A = 48x^{3}y^{2} \times 1/4x^{2} \times 2 = 24xy^{2}
+96x^{3}y^{2}/4x^{2} = 24xy^{2} \therefore 24xy^{2}
+96x^{3}y^{2} \times 1/4x^{2} = 24xy^{2} 24xy^{2}
+48x^{3}y^{2} \times 2 = 96x^{3}y^{2} 96x^{3}y^{2} \div ( 2x )^{2} = 96x^{3}y \div 4x^{2} = 24xy ¥‰ 24xy
+24xy^{2}
