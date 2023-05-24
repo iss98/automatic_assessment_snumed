@@ -36,4 +36,4 @@ class ATTModel(nn.Module):
     def padding_tensor(self, x): #padding 된 값을 true로 리턴하는 함수
         zero_tensor = torch.zeros_like(x)  # 동일한 크기의 0으로 채워진 텐서 생성
         padding = torch.eq(x, zero_tensor)  # 입력 텐서와 0으로 채워진 텐서 비교
-        return padding 
+        return padding.bool() 
