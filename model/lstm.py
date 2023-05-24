@@ -28,8 +28,8 @@ class LSTMModel(nn.Module):
         output : batch x time step x hidden_dim
         return : batch x out_dim
         """
-        h0 = torch.zeros(1, x.size(0), self.hiddem_dim).to(self.device)
-        c0 = torch.zeros(1, x.size(0), self.hiddem_dim).to(self.device)
+        h0 = torch.zeros(1, x.size(0), self.hidden_dim).to(self.device)
+        c0 = torch.zeros(1, x.size(0), self.hidden_dim).to(self.device)
         embedded = self.emb_layer(x)
         output, _ = self.lstm(embedded, (h0, c0))
         #가장 마지막 time step만 사용해주기 때문에 [:,-1,:]로 slicing 한다
