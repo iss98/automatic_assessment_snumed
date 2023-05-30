@@ -17,7 +17,7 @@ from model import get_model
 if __name__ == "__main__":
     cfg = get_cfg()
     #모델 이름 설정 : 문항_모델이름_토크나이저_vocab size ex) 1-1_rnn_tokenizer_40
-    model_name = f"{cfg.item}_{cfg.model}_{cfg.tokenizer}_{cfg.vs}"
+    model_name = f"{cfg.item}_{cfg.concept}_{cfg.model}_{cfg.tokenizer}_{cfg.vs}"
     #wandb에 연결하기
     wandb.init(project=cfg.prjname, name = model_name, config=cfg)
     #tokenizer 불러오기

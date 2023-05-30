@@ -17,6 +17,9 @@ def get_cfg():
         "--item", type = str, choices = item_list, help = "item number"
     ) #사용할 문항 지정 예) 1-1, 3-2, 모두 사용하는 경우 all 입력
     parser.add_argument(
+        "--concept", type = str, default = "kc", choices = ["kc", "mc"], help = "model type"
+    ) #지식요소를 평가할지(kc), 오개념을 평가할지(mc)
+    parser.add_argument(
         "--model", type = str, default = "rnn", choices = model_list, help = "model type"
     ) #사용할 모델 지정 rnn, lstm, att (att는 multihead attention 기반 모델)
     parser.add_argument(
