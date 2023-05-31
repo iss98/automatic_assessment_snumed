@@ -27,33 +27,19 @@ class MCResponseDataset(Dataset):
         df = df.dropna(subset = ["답안"]) #답안이 없는 학생 제거
         column_nums = df.shape[1]
         column_index = df.columns.get_loc("정오답") #각 문항마다 지식요소가 다르기 때문에
-        self.output_d = column_nums - (column_index + 1) #예시로 생각하면 됨
-        if self.output_d == 1 :
-            if cfg.tokenizer == "sp":
-                for _, row in tqdm(df.iterrows()):
-                    x = row[1]
-                    token = self.tokenizer.tokenizer(x)
-                    y = [row[-1]]
-                    self.data.append((token['input_ids'],y))
-            elif cfg.tokenizer == "bw":
-                for _, row in tqdm(df.iterrows()):
-                    x = row[1]
-                    token = self.tokenizer.tokenizer.encode(x)
-                    y = [row[-1]]
-                    self.data.append((token.ids,y))
-        else :
-            if cfg.tokenizer == "sp":
-                for _, row in tqdm(df.iterrows()):
-                    x = row[1]
-                    token = self.tokenizer.tokenizer(x)
-                    y = [a for a in row[column_index + 1:]]
-                    self.data.append((token['input_ids'],y))
-            elif cfg.tokenizer == "bw":
-                for _, row in tqdm(df.iterrows()):
-                    x = row[1]
-                    token = self.tokenizer.tokenizer.encode(x)
-                    y = [a for a in row[column_index + 1 :]]
-                    self.data.append((token.ids,y))
+        self.output_d = column_nums - (column_index) #예시로 생각하면 됨
+        if cfg.tokenizer == "sp":
+            for _, row in tqdm(df.iterrows()):
+                x = row[1]
+                token = self.tokenizer.tokenizer(x)
+                y = [a for a in row[column_index:]]
+                self.data.append((token['input_ids'],y))
+        elif cfg.tokenizer == "bw":
+            for _, row in tqdm(df.iterrows()):
+                x = row[1]
+                token = self.tokenizer.tokenizer.encode(x)
+                y = [a for a in row[column_index:]]
+                self.data.append((token.ids,y))
 
     def __len__(self):
         return len(self.data)
