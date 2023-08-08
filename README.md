@@ -1,4 +1,4 @@
-# (2023 SNUMED) Mathematics education assessment class assignment
+# (2023 SNUMED) Mathematics Education Assessment Class Assignment
 
 ## Group Memebers
 김명식, 김재훈, 김지영, 신인섭, 윤예린, 정유진
