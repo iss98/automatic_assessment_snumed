@@ -8,7 +8,7 @@
 Data on 20 problems related to linear equation solving, polynomial and uniaxial operations were collected from second-year middle school students.
 
 ## Models
-Tokenizer : Bertwordpiece tokenizer and Sentencepiece tokenizer
+Tokenizer : Bertwordpiece tokenizer and Sentencepiece tokenizer  
 Models : RNN, LSTM, MultiheadAttention
 
 ## Results
